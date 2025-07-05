@@ -11230,6 +11230,3884 @@ const dictionary = {
       },
     ],
   },
+  flower: {
+    word: "flower",
+    tamil: "மலர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A blooming plant that produces seeds",
+        tamil: " விதைகள் உற்பத்தி செய்யும் ஒரு பூக்கும் செடி",
+        example: "The garden is full of colorful flowers.",
+        tamil_example: "தொகுப்பில் நிறமயமான மலர்கள் நிறைந்துள்ளன.",
+      },
+    ],
+  },
+  friend: {
+    word: "friend",
+    tamil: "நண்பர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A person you know well and like",
+        tamil: "நீங்கள் நன்கு அறிந்த மற்றும் விரும்பும் ஒரு நபர்",
+        example: "She is my best friend.",
+        tamil_example: "அவள் என் சிறந்த நண்பி.",
+      },
+    ],
+  },
+  famous: {
+    word: "famous",
+    tamil: "பிரபலமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Known by many people",
+        tamil: "பலர் அறிந்த",
+        example: "He is a famous actor.",
+        tamil_example: "அவர் ஒரு பிரபல நடிகர்.",
+      },
+    ],
+  },
+  fast: {
+    word: "fast",
+    tamil: "விரைவு",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Moving at high speed",
+        tamil: "உயர்ந்த வேகத்தில் நகர்ந்து",
+        example: "The car is very fast.",
+        tamil_example: "கார் மிகவும் விரைவு.",
+      },
+    ],
+  },
+  feeling: {
+    word: "feeling",
+    tamil: "உணர்வு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "An emotional state or reaction",
+        tamil: "ஒரு உணர்ச்சி நிலை அல்லது பதில்",
+        example: "I have a feeling of happiness.",
+        tamil_example: "எனக்கு மகிழ்ச்சியுடன் உணர்வு உள்ளது.",
+      },
+    ],
+  },
+  family: {
+    word: "family",
+    tamil: "குடும்பம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A group consisting of parents and children",
+        tamil: "பெற்றோர்கள் மற்றும் குழந்தைகளைக் கொண்ட குழு",
+        example: "My family is going on vacation.",
+        tamil_example: "என் குடும்பம் விடுமுறை செல்லப் போகின்றது.",
+      },
+    ],
+  },
+  fruit: {
+    word: "fruit",
+    tamil: "பழம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A sweet or sour food produced by plants",
+        tamil: "சிறிது அல்லது sour உணவு, செடிகளால் உற்பத்தி செய்யப்படுகிறது",
+        example: "I eat an apple every day.",
+        tamil_example: "நான் ஒவ்வொரு நாளும் ஆப்பிள் சாப்பிடுகிறேன்.",
+      },
+    ],
+  },
+  freedom: {
+    word: "freedom",
+    tamil: "சுதந்திரம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The power or right to do what you want",
+        tamil: "நீங்கள் விரும்பும்தை செய்யும் சக்தி அல்லது உரிமை",
+        example: "Freedom is essential for happiness.",
+        tamil_example: "சுதந்திரம் மகிழ்ச்சிக்கு முக்கியமாகும்.",
+      },
+    ],
+  },
+  furniture: {
+    word: "furniture",
+    tamil: "பரபரப்பான பொருட்கள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Objects such as chairs and tables used in a home or office",
+        tamil:
+          "ஒரு வீடு அல்லது அலுவலகத்தில் பயன்படுத்தப்படும் நாற்காலிகள் மற்றும் மேஜைகள் போன்ற பொருட்கள்",
+        example: "The living room has new furniture.",
+        tamil_example: "உள்ள அறையில் புதிய பரபரப்பான பொருட்கள் உள்ளன.",
+      },
+    ],
+  },
+  fun: {
+    word: "fun",
+    tamil: "விளையாட்டு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Enjoyable activities or experiences",
+        tamil: "விழாக்கான செயல்பாடுகள் அல்லது அனுபவங்கள்",
+        example: "We had a lot of fun at the park.",
+        tamil_example: "நாங்கள் பூங்காவில் மிகவும் சந்தோஷமாக இருந்தோம்.",
+      },
+    ],
+  },
+  fear: {
+    word: "fear",
+    tamil: "பயம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning:
+          "An unpleasant emotion caused by the belief that something is dangerous",
+        tamil: "ஏதோ ஆபத்து உள்ளதாக நம்புவதன் காரணமாக ஏற்படும் தொந்தரவு உணர்வு",
+        example: "She felt fear when she saw the snake.",
+        tamil_example: "அவள் பாம்பு கண்டு பயந்தார்.",
+      },
+    ],
+  },
+  flight: {
+    word: "flight",
+    tamil: "விமானப் பயணம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The action of flying through the air",
+        tamil: "காற்றில் பறப்பது",
+        example: "Our flight was delayed.",
+        tamil_example: "எங்கள் விமானம் தாமதமானது.",
+      },
+    ],
+  },
+  fashion: {
+    word: "fashion",
+    tamil: "பூமி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A popular style or trend in clothing or behavior",
+        tamil: "சருமம் அல்லது நடத்தை அடிப்படையில் பிரபலமான பாணி அல்லது திசை",
+        example: "She is always up to date with fashion.",
+        tamil_example: "அவள் எப்பொழுதும் புதிய பாணியில் இருக்கிறாள்.",
+      },
+    ],
+  },
+  fate: {
+    word: "fate",
+    tamil: "வழியெதிர்ப்பு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The development of events beyond a person's control",
+        tamil:
+          "ஒரு நபரின் கட்டுப்பாட்டிற்கு வெளியே நிகழும் நிகழ்வுகளின் வளர்ச்சி",
+        example: "It was fate that brought us together.",
+        tamil_example: "நாங்கள் ஒன்றிணைந்து வந்தது அதன் வாய்ப்பு.",
+      },
+    ],
+  },
+  fuel: {
+    word: "fuel",
+    tamil: "எரிபொருள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A material burned to produce energy",
+        tamil: "ஆற்றல் உற்பத்தி செய்யப் பருகப்படும் பொருள்",
+        example: "The car needs fuel to run.",
+        tamil_example: "காருக்கு ஓடுவதற்கு எரிபொருள் தேவை.",
+      },
+    ],
+  },
+  flood: {
+    word: "flood",
+    tamil: "பெருக்கம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "An overflow of water that submerges land",
+        tamil: "நீர் மிகுந்த நிலத்தில் ஏற்படும் வெப்பநிலை",
+        example: "The city suffered a terrible flood.",
+        tamil_example: "நகரம் ஒரு கொடிய பெருக்கத்தில் பாதிக்கப்பட்டது.",
+      },
+    ],
+  },
+  fascinate: {
+    word: "fascinate",
+    tamil: "ஆசிரமிக்க",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To attract and hold the attention of",
+        tamil: "கவனத்தை கவர்ந்து பிடிக்க",
+        example: "The magician's performance fascinated the audience.",
+        tamil_example: "மாயாஜாலக் கலைஞரின் நடிப்பு பார்வையாளர்களை கவர்ந்தது.",
+      },
+    ],
+  },
+  fortune: {
+    word: "fortune",
+    tamil: "பெரும் செல்வம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Chance or luck, especially favorable",
+        tamil: "வாய்ப்பு அல்லது அதிர்ஷ்டம், குறிப்பாக சாதகமானது",
+        example: "He made his fortune in the tech industry.",
+        tamil_example:
+          "அவன் தொழில்நுட்ப தொழிலில் தனது பெரும் செல்வத்தைப் பெற்றான்.",
+      },
+    ],
+  },
+  fury: {
+    word: "fury",
+    tamil: "கோபம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Wild anger or rage",
+        tamil: "அடிமை கோபம் அல்லது காமம்",
+        example: "He was filled with fury when he found out.",
+        tamil_example: "அவருக்குக் கண்டுபிடித்தது அவர் மிக கோபமாக இருந்தார்.",
+      },
+    ],
+  },
+  flame: {
+    word: "flame",
+    tamil: "ஊற்று",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A hot glowing body of ignited gas",
+        tamil: "பரமிடமுள்ள எரிந்த வாயு உடைய ஒரு சூடான பிரகாசமான உடல்",
+        example: "The flame of the candle flickered.",
+        tamil_example: "முத்திரையின் ஊற்று காளியுடன் துடித்தது.",
+      },
+    ],
+  },
+  fountain: {
+    word: "fountain",
+    tamil: "சிற்றினைகள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A structure that sends water up into the air",
+        tamil: "காற்றின் உள்ளே நீரை மேலே அனுப்பும் ஒரு அமைப்பு",
+        example: "The fountain in the park is beautiful.",
+        tamil_example: "பூங்காவிலுள்ள சிற்றினைகள் அழகாக உள்ளன.",
+      },
+    ],
+  },
+  fraction: {
+    word: "fraction",
+    tamil: "பகுதி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A numerical quantity that is not a whole number",
+        tamil: "ஒரு முழு எண்ணிக்கையாக இல்லாத எண்கணித அளவு",
+        example: "We divided the pizza into fractions.",
+        tamil_example: "நாம் பீசாவை பகுதியாக பிரித்தோம்.",
+      },
+    ],
+  },
+  frequent: {
+    word: "frequent",
+    tamil: "அடிக்கடி",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Occurring or done often",
+        tamil: "அடிக்கடி நிகழும் அல்லது செய்யப்படும்",
+        example: "She made frequent trips to the library.",
+        tamil_example: "அவள் நூலகத்திற்கு அடிக்கடி சென்றாள்.",
+      },
+    ],
+  },
+  feather: {
+    word: "feather",
+    tamil: "முடி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A light, flat structure growing from a bird's skin",
+        tamil: "ஒரு பறவையின் உடலில் இருந்து வளர்ந்த மென்மையான, சமநிலை அமைப்பு",
+        example: "The bird has colorful feathers.",
+        tamil_example: "அந்த பறவைக்கு நிறமயமான முடிகள் உள்ளன.",
+      },
+    ],
+  },
+  fury: {
+    word: "fury",
+    tamil: "கோபம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Wild anger or rage",
+        tamil: "அடிமை கோபம் அல்லது காமம்",
+        example: "The fury in his eyes was terrifying.",
+        tamil_example: "அவரின் கண்களில் உள்ள கோபம் பயங்கரமாக இருந்தது.",
+      },
+    ],
+  },
+  fiction: {
+    word: "fiction",
+    tamil: "கற்பனை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Literature in the form of stories that are not true",
+        tamil: "உண்மையான அல்லாத கதைகளாக உள்ள இலக்கியம்",
+        example: "She enjoys reading science fiction.",
+        tamil_example: "அவள் அறிவியல் கற்பனை வாசிப்பதில் மகிழ்ச்சி அடைகிறாள்.",
+      },
+    ],
+  },
+  frown: {
+    word: "frown",
+    tamil: "பிடிப்பு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make a serious or displeased face",
+        tamil:
+          "ஒரு பெரும்பாலும் கோபமான அல்லது திரும்பிப் பார்க்கும் முகம் உருவாக்குதல்",
+        example: "He frowned when he heard the bad news.",
+        tamil_example: "அவன் கெட்ட செய்தி கேட்டபோது பிடித்தான்.",
+      },
+    ],
+  },
+  firm: {
+    word: "firm",
+    tamil: "முயற்சி",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Strong, not easily moved or changed",
+        tamil: "வலிமையான, எளிதில் நகரவோ அல்லது மாறவோ முடியாத",
+        example: "He gave a firm handshake.",
+        tamil_example: "அவனே வலிமையான கைஅஞ்சல் கொடுத்தான்.",
+      },
+    ],
+  },
+  favorable: {
+    word: "favorable",
+    tamil: "நல்ல",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Indicating that something will likely succeed",
+        tamil: "ஏதாவது வெற்றிகரமாக அமைவது என்பதைக் காட்டுவது",
+        example: "The weather conditions were favorable for sailing.",
+        tamil_example: "காற்றின் நிலைகள் சேலிங் செய்ய ஏற்றவையாக இருந்தன.",
+      },
+    ],
+  },
+  frost: {
+    word: "frost",
+    tamil: "பனி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A thin layer of ice that forms on surfaces",
+        tamil: "மேற்பரப்புகளில் உருவாகும் பனியின் ஒரு மெத்தடை",
+        example: "There was frost on the ground this morning.",
+        tamil_example: "இன்று காலை நிலத்தில் பனி இருந்தது.",
+      },
+    ],
+  },
+  failure: {
+    word: "failure",
+    tamil: "தோல்வி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The lack of success or ability to achieve something",
+        tamil: "வெற்றியை அல்லது ஏதாவது அடைவதை தவிர்க்கல்",
+        example: "His failure to meet the deadline was disappointing.",
+        tamil_example:
+          "காலக்கெடு பூர்த்தி செய்யும் முயற்சியில் தோல்வி துன்பமாக இருந்தது.",
+      },
+    ],
+  },
+  fragile: {
+    word: "fragile",
+    tamil: "நகைச்சுவை",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Easily broken or damaged",
+        tamil: "எளிதில் உடைந்து போகின்ற அல்லது சேதமடைகின்ற",
+        example: "The glass vase is fragile.",
+        tamil_example: "கண்ணாடி பூட்டை எளிதாக உடைக்க முடியும்.",
+      },
+    ],
+  },
+  famous: {
+    word: "famous",
+    tamil: "பிரபலமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Known by many people",
+        tamil: "பலர் அறிந்த",
+        example: "He is a famous scientist.",
+        tamil_example: "அவர் ஒரு பிரபல அறிவியலாளர்.",
+      },
+    ],
+  },
+  freeze: {
+    word: "freeze",
+    tamil: "கடுமையான உறையல்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To turn into ice or become very cold",
+        tamil: "பனி அல்லது மிகவும் குளிர்ந்ததாக மாறுதல்",
+        example: "The water will freeze in cold temperatures.",
+        tamil_example: "குளிர்ந்த வெப்பநிலைகளில் நீர் உறைந்து போகும்.",
+      },
+    ],
+  },
+  funny: {
+    word: "funny",
+    tamil: "சிரிப்பார்ந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Causing laughter or amusement",
+        tamil: "சிரிப்பை அல்லது மகிழ்ச்சியை உண்டாக்கும்",
+        example: "The comedian told a funny joke.",
+        tamil_example: "காமெடியன் சிரிக்க வைக்கும் காமெடியை கூறினான்.",
+      },
+    ],
+  },
+  falter: {
+    word: "falter",
+    tamil: "பிரபலமானது",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To lose strength or momentum",
+        tamil: "உடல் அல்லது சக்தி இழக்குதல்",
+        example: "She faltered when answering the tough question.",
+        tamil_example:
+          "அவள் கடுமையான கேள்விக்கு பதில் அளிக்கும் போது தவறினாள்.",
+      },
+    ],
+  },
+  finesse: {
+    word: "finesse",
+    tamil: "அழகு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Refinement, delicacy, or skill in handling a situation",
+        tamil: "ஒரு நிலையை கையாளுவதில் நுட்பம், அழகு அல்லது திறமை",
+        example: "She handled the delicate situation with finesse.",
+        tamil_example: "அவள் அந்த எதுவும் பாதிக்காத நிலையை அழகாக கையாள்ந்தாள்.",
+      },
+    ],
+  },
+  fascinate: {
+    word: "fascinate",
+    tamil: "ஆசிரமிக்க",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To attract or hold the interest of",
+        tamil: "கவனத்தை கவர்ந்துகொள்ளுதல்",
+        example: "The magician's tricks fascinated the audience.",
+        tamil_example:
+          "மாயாஜாலக் கலைஞரின் குறுக்குவிளையாட்டுகள் பார்வையாளர்களை கவர்ந்தன.",
+      },
+    ],
+  },
+  foster: {
+    word: "foster",
+    tamil: "உதவி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To encourage or promote the development of something",
+        tamil: "ஏதாவது ஒன்றின் மேம்பாட்டைக் குறைக்க அல்லது ஊக்குவிப்பது",
+        example: "The organization fosters creativity in children.",
+        tamil_example: "இந்த அமைப்பு குழந்தைகளில் படைப்பாற்றலை ஊக்குவிக்கிறது.",
+      },
+    ],
+  },
+  flaw: {
+    word: "flaw",
+    tamil: "பிழை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A defect or imperfection",
+        tamil: "ஒரு தவறு அல்லது குறை",
+        example: "The flaw in the design was noticeable.",
+        tamil_example: "வடிவமைப்பில் பிழை தெளிவாக இருந்தது.",
+      },
+    ],
+  },
+  fury: {
+    word: "fury",
+    tamil: "கோபம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Extreme anger or rage",
+        tamil: "மிகவும் கோபம் அல்லது காமம்",
+        example: "He was filled with fury after the argument.",
+        tamil_example: "ஆலோசனைக்கு பிறகு அவன் கோபத்தால் நிரம்பினான்.",
+      },
+    ],
+  },
+  faltering: {
+    word: "faltering",
+    tamil: "இழப்பின்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Losing strength or momentum",
+        tamil: "சக்தி அல்லது வேகம் இழப்பது",
+        example: "His faltering voice showed his nervousness.",
+        tamil_example: "அவனின் இழப்பான குரல் அவனது கலக்கத்தை காட்டியது.",
+      },
+    ],
+  },
+  furnish: {
+    word: "furnish",
+    tamil: "அலங்கரிப்பு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To provide or equip with furniture or equipment",
+        tamil: "பரபரப்பான பொருட்களால் அல்லது உபகரணங்களால் வழங்குதல்",
+        example: "They furnished their home with modern furniture.",
+        tamil_example:
+          "அவர்கள் தங்கள் வீட்டை நவீன பரபரப்பான பொருட்களுடன் அலங்கரித்தனர்.",
+      },
+    ],
+  },
+  fusion: {
+    word: "fusion",
+    tamil: "இணைவம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The process of combining two or more things into one",
+        tamil: "இரு அல்லது அதற்கு மேற்பட்டவற்றை ஒன்றாக சேர்க்கும் செயல்முறை",
+        example: "The fusion of traditional and modern styles is popular.",
+        tamil_example:
+          "பாரம்பரிய மற்றும் நவீன பாணிகளின் இணைவம் பிரபலமாக உள்ளது.",
+      },
+    ],
+  },
+  fame: {
+    word: "fame",
+    tamil: "பிரபலத்துக்கு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The state of being widely known and admired",
+        tamil: "பொதுவாக அறியப்பட்ட மற்றும் பாராட்டப்பட்ட நிலை",
+        example: "She gained fame after the movie release.",
+        tamil_example: "சினிமா வெளியிடப்பட்ட பிறகு அவள் பிரபலமடைந்தாள்.",
+      },
+    ],
+  },
+  fiend: {
+    word: "fiend",
+    tamil: "பேய்க்கோழி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A person who is cruel or wicked",
+        tamil: "குரூரமான அல்லது கெட்ட நபர்",
+        example: "He is a fiend who enjoys causing pain.",
+        tamil_example: "அவன் வலி கொடுக்கும் மகிழ்ச்சி பெற்றுள்ள பேய்க்கோழி.",
+      },
+    ],
+  },
+  fledgling: {
+    word: "fledgling",
+    tamil: "புதிய கல்லூரி",
+    type: "noun",
+    meanings: [
+      {
+        meaning:
+          "A young bird that has just acquired feathers and is learning to fly",
+        tamil: "சிறிய பறவை, அது இளவேனில் மற்றும் பறக்க கற்றுக்கொள்ளும்",
+        example: "The fledgling struggled to fly.",
+        tamil_example: "புதிய பறவை பறக்க போராடியது.",
+      },
+    ],
+  },
+  fathom: {
+    word: "fathom",
+    tamil: "ஆழம்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To understand or comprehend something deeply",
+        tamil: "ஏதாவது ஒன்றை ஆழமாக புரிந்துகொள்ளுதல்",
+        example: "I can't fathom how they completed the project so quickly.",
+        tamil_example:
+          "அவர்கள் திட்டத்தை இவ்வளவு விரைவாக முடித்தது எனக்கு புரியவில்லை.",
+      },
+    ],
+  },
+  event: {
+    word: "event",
+    tamil: "நிகழ்வு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Something that happens, especially something important",
+        tamil: "நடக்கும் ஒரு விஷயம், குறிப்பாக முக்கியமான ஒன்று",
+        example: "The sports event was postponed due to rain.",
+        tamil_example: "மழை காரணமாக விளையாட்டு நிகழ்வு தள்ளிப்போனது.",
+      },
+    ],
+  },
+  ever: {
+    word: "ever",
+    tamil: "எப்போதும்",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "At any time",
+        tamil: "எந்த நேரத்திலும்",
+        example: "Have you ever visited Delhi?",
+        tamil_example: "நீங்கள் எப்போதாவது டெல்லி சென்றிருக்கிறீர்களா?",
+      },
+    ],
+  },
+  every: {
+    word: "every",
+    tamil: "ஒவ்வொரு",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Each one without exception",
+        tamil: "விதிவிலக்கின்றி ஒவ்வொன்றும்",
+        example: "Every student must bring their notebook.",
+        tamil_example:
+          "ஒவ்வொரு மாணவரும் தங்கள் குறிப்பேட்டை கொண்டு வர வேண்டும்.",
+      },
+    ],
+  },
+  exact: {
+    word: "exact",
+    tamil: "துல்லியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Completely correct in every detail",
+        tamil: "ஒவ்வொரு விவரத்திலும் முழுமையாக சரியானது",
+        example: "What is the exact time now?",
+        tamil_example: "இப்போது துல்லியமான நேரம் என்ன?",
+      },
+    ],
+  },
+  example: {
+    word: "example",
+    tamil: "உதாரணம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A thing characteristic of its kind",
+        tamil: "அதன் வகையின் பண்பைக் காட்டும் ஒன்று",
+        example: "This is a good example of traditional art.",
+        tamil_example: "இது பாரம்பரிய கலையின் ஒரு நல்ல உதாரணம்.",
+      },
+    ],
+  },
+  excellent: {
+    word: "excellent",
+    tamil: "சிறந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Extremely good",
+        tamil: "மிகவும் நன்றாக",
+        example: "She gave an excellent performance.",
+        tamil_example: "அவள் ஒரு சிறந்த நிகழ்ச்சியை வழங்கினாள்.",
+      },
+    ],
+  },
+  except: {
+    word: "except",
+    tamil: "தவிர",
+    type: "preposition",
+    meanings: [
+      {
+        meaning: "Not including",
+        tamil: "சேர்க்கவில்லை",
+        example: "Everyone came except Ravi.",
+        tamil_example: "ரவி தவிர அனைவரும் வந்தனர்.",
+      },
+    ],
+  },
+  excite: {
+    word: "excite",
+    tamil: "உற்சாகப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make someone feel enthusiastic",
+        tamil: "யாரையாவது உற்சாகப்படுத்துதல்",
+        example: "The news excited the children.",
+        tamil_example: "செய்தி குழந்தைகளை உற்சாகப்படுத்தியது.",
+      },
+    ],
+  },
+  excuse: {
+    word: "excuse",
+    tamil: "மன்னிப்பு",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "A reason to justify a fault",
+        tamil: "ஒரு தவறை நியாயப்படுத்த ஒரு காரணம்",
+        example: "What's your excuse for being late?",
+        tamil_example: "தாமதமாக வருவதற்கு உங்கள் மன்னிப்பு என்ன?",
+      },
+    ],
+  },
+  exercise: {
+    word: "exercise",
+    tamil: "பயிற்சி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Physical activity for health",
+        tamil: "ஆரோக்கியத்திற்கான உடல் செயல்பாடு",
+        example: "Regular exercise is good for health.",
+        tamil_example: "வழக்கமான உடற்பயிற்சி ஆரோக்கியத்திற்கு நல்லது.",
+      },
+    ],
+  },
+  expect: {
+    word: "expect",
+    tamil: "எதிர்பார்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To regard as likely to happen",
+        tamil: "நடக்கக்கூடியது என்று கருதுதல்",
+        example: "I expect him to arrive by 5 PM.",
+        tamil_example:
+          "மாலை 5 மணிக்கு அவர் வருவார் என்று நான் எதிர்பார்க்கிறேன்.",
+      },
+    ],
+  },
+  expensive: {
+    word: "expensive",
+    tamil: "விலை உயர்ந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Costing a lot of money",
+        tamil: "அதிக பணம் செலவாகும்",
+        example: "This watch is too expensive.",
+        tamil_example: "இந்த கடிகாரம் மிகவும் விலை உயர்ந்தது.",
+      },
+    ],
+  },
+  experience: {
+    word: "experience",
+    tamil: "அனுபவம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Knowledge or skill from doing something",
+        tamil: "ஏதாவது செய்வதிலிருந்து கிடைக்கும் அறிவு அல்லது திறன்",
+        example: "She has 10 years of teaching experience.",
+        tamil_example: "அவளுக்கு 10 ஆண்டுகள் கற்பித்தல் அனுபவம் உள்ளது.",
+      },
+    ],
+  },
+  explain: {
+    word: "explain",
+    tamil: "விளக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make something clear",
+        tamil: "ஏதாவது தெளிவாக்குதல்",
+        example: "Can you explain this rule to me?",
+        tamil_example: "இந்த விதியை எனக்கு விளக்க முடியுமா?",
+      },
+    ],
+  },
+  express: {
+    word: "express",
+    tamil: "வெளிப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To show a feeling or opinion",
+        tamil: "ஒரு உணர்வு அல்லது கருத்தைக் காட்டுதல்",
+        example: "Children should express their thoughts freely.",
+        tamil_example:
+          "குழந்தைகள் தங்கள் எண்ணங்களை சுதந்திரமாக வெளிப்படுத்த வேண்டும்.",
+      },
+    ],
+  },
+  eye: {
+    word: "eye",
+    tamil: "கண்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The organ of sight",
+        tamil: "பார்வை உறுப்பு",
+        example: "She has beautiful blue eyes.",
+        tamil_example: "அவளுக்கு அழகான நீல கண்கள் உள்ளன.",
+      },
+    ],
+  },
+  eager: {
+    word: "eager",
+    tamil: "ஆர்வமுள்ள",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Strongly wanting to do something",
+        tamil: "ஏதாவது செய்ய மிகவும் விரும்புதல்",
+        example: "The students were eager to learn.",
+        tamil_example: "மாணவர்கள் கற்றுக்கொள்ள ஆர்வமாக இருந்தனர்.",
+      },
+    ],
+  },
+  earn: {
+    word: "earn",
+    tamil: "சம்பாதி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To receive money for work",
+        tamil: "வேலைக்காக பணம் பெறுதல்",
+        example: "He earns a good salary.",
+        tamil_example: "அவர் ஒரு நல்ல சம்பளம் சம்பாதிக்கிறார்.",
+      },
+    ],
+  },
+  earthquake: {
+    word: "earthquake",
+    tamil: "நிலநடுக்கம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A sudden shaking of the ground",
+        tamil: "தரையின் திடீர் அசைவு",
+        example: "The earthquake damaged many buildings.",
+        tamil_example: "நிலநடுக்கம் பல கட்டிடங்களை சேதப்படுத்தியது.",
+      },
+    ],
+  },
+  echo: {
+    word: "echo",
+    tamil: "பிரதிபலிப்பு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Repetition of sound by reflection",
+        tamil: "ஒலியின் எதிரொலிப்பு",
+        example: "We heard our echo in the mountains.",
+        tamil_example: "மலைகளில் எங்கள் எதிரொலியைக் கேட்டோம்.",
+      },
+    ],
+  },
+  fable: {
+    word: "fable",
+    tamil: "நீதிக் கதை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A short story with a moral lesson",
+        tamil: "நீதியைக் கற்றுத் தரும் குறுங்கதை",
+        example: "The Tortoise and the Hare is a famous fable.",
+        tamil_example: "ஆமையும் முயலும் ஒரு பிரபலமான நீதிக் கதை.",
+      },
+    ],
+  },
+  facet: {
+    word: "facet",
+    tamil: "முகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "One side or aspect of something",
+        tamil: "ஒன்றின் ஒரு பக்க அல்லது அம்சம்",
+        example: "This problem has many facets.",
+        tamil_example: "இந்த பிரச்சனைக்கு பல முகங்கள் உள்ளன.",
+      },
+    ],
+  },
+  faint: {
+    word: "faint",
+    tamil: "மயக்கம்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Lacking strength or clarity",
+        tamil: "வலிமை அல்லது தெளிவு இல்லாத",
+        example: "She felt faint after standing too long.",
+        tamil_example: "அவள் நீண்ட நேரம் நின்றதால் மயக்கம் உணர்ந்தாள்.",
+      },
+    ],
+  },
+  faith: {
+    word: "faith",
+    tamil: "நம்பிக்கை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Complete trust or confidence",
+        tamil: "முழு நம்பிக்கை அல்லது உறுதி",
+        example: "He has faith in his team.",
+        tamil_example: "அவருக்கு அவரது அணியில் நம்பிக்கை உள்ளது.",
+      },
+    ],
+  },
+  falcon: {
+    word: "falcon",
+    tamil: "பால்கான்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A fast-flying bird of prey",
+        tamil: "வேகமாக பறக்கும் இரை பிடிக்கும் பறவை",
+        example: "The falcon soared high in the sky.",
+        tamil_example: "பால்கான் வானத்தில் உயரே பறந்தது.",
+      },
+    ],
+  },
+  famine: {
+    word: "famine",
+    tamil: "பஞ்சம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Extreme scarcity of food",
+        tamil: "உணவின் கடும் பற்றாக்குறை",
+        example: "Many died during the famine.",
+        tamil_example: "பஞ்சத்தின் போது பலர் இறந்தனர்.",
+      },
+    ],
+  },
+  fancy: {
+    word: "fancy",
+    tamil: "ஆடம்பரம்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Elaborate or decorative",
+        tamil: "விரிவான அல்லது அலங்காரமான",
+        example: "She wore a fancy dress to the party.",
+        tamil_example: "அவள் விருந்துக்கு ஒரு ஆடம்பர உடை அணிந்திருந்தாள்.",
+      },
+    ],
+  },
+  farce: {
+    word: "farce",
+    tamil: "நகைச்சுவை நாடகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A comic dramatic work with absurd situations",
+        tamil: "அபத்தமான சூழ்நிலைகளுடன் கூடிய நகைச்சுவை நாடகம்",
+        example: "The play was a complete farce.",
+        tamil_example: "அந்த நாடகம் முழுமையான நகைச்சுவை நாடகமாக இருந்தது.",
+      },
+    ],
+  },
+  fatal: {
+    word: "fatal",
+    tamil: "மரணம் தரும்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Causing death or disaster",
+        tamil: "மரணம் அல்லது பேரழிவை ஏற்படுத்தும்",
+        example: "The accident was fatal.",
+        tamil_example: "அந்த விபத்து மரணம் தரும் வகையில் இருந்தது.",
+      },
+    ],
+  },
+  feast: {
+    word: "feast",
+    tamil: "விருந்து",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A large meal with celebrations",
+        tamil: "விழாக்களுடன் கூடிய பெரிய உணவு",
+        example: "We prepared a feast for the guests.",
+        tamil_example:
+          "நாங்கள் விருந்தினர்களுக்கு ஒரு விருந்து தயார் செய்தோம்.",
+      },
+    ],
+  },
+  feeble: {
+    word: "feeble",
+    tamil: "பலவீனமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Lacking physical strength",
+        tamil: "உடல் வலிமை இல்லாத",
+        example: "His voice was feeble after the illness.",
+        tamil_example: "நோய்க்குப் பிறகு அவரது குரல் பலவீனமாக இருந்தது.",
+      },
+    ],
+  },
+  fervent: {
+    word: "fervent",
+    tamil: "உணர்ச்சிவசப்பட்ட",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Showing intense passion",
+        tamil: "தீவிர உணர்ச்சியைக் காட்டும்",
+        example: "She made a fervent plea for justice.",
+        tamil_example:
+          "அவள் நீதிக்காக ஒரு உணர்ச்சிவசப்பட்ட வேண்டுகோள் செய்தாள்.",
+      },
+    ],
+  },
+  fiasco: {
+    word: "fiasco",
+    tamil: "முற்றிலும் தோல்வி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A complete failure",
+        tamil: "முழுமையான தோல்வி",
+        example: "The event turned into a fiasco.",
+        tamil_example: "நிகழ்ச்சி முற்றிலும் தோல்வியாக மாறியது.",
+      },
+    ],
+  },
+  fickle: {
+    word: "fickle",
+    tamil: "மாறும் மனம் உள்ள",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Likely to change frequently",
+        tamil: "அடிக்கடி மாறும் போக்கு உள்ள",
+        example: "The weather is fickle in spring.",
+        tamil_example: "வசந்த காலத்தில் வானிலை மாறும் மனம் உள்ளது.",
+      },
+    ],
+  },
+  fierce: {
+    word: "fierce",
+    tamil: "கடுமையான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Violent or aggressive",
+        tamil: "கொடூரமான அல்லது ஆக்கிரமிப்பு",
+        example: "The tiger gave a fierce roar.",
+        tamil_example: "புலி ஒரு கடுமையான உறுமல் எழுப்பியது.",
+      },
+    ],
+  },
+  flawless: {
+    word: "flawless",
+    tamil: "குறைபாடற்ற",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Without any imperfections",
+        tamil: "எந்த குறைபாடும் இல்லாத",
+        example: "Her performance was flawless.",
+        tamil_example: "அவளின் நிகழ்ச்சி குறைபாடற்றதாக இருந்தது.",
+      },
+    ],
+  },
+  folly: {
+    word: "folly",
+    tamil: "முட்டாள்தனம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Foolishness or lack of good sense",
+        tamil: "முட்டாள்தனம் அல்லது நல்லறிவு இன்மை",
+        example: "It would be folly to ignore the warning.",
+        tamil_example: "எச்சரிக்கையை புறக்கணிப்பது முட்டாள்தனமாக இருக்கும்.",
+      },
+    ],
+  },
+  forlorn: {
+    word: "forlorn",
+    tamil: "கைவிடப்பட்ட",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Pitifully sad and abandoned",
+        tamil: "பரிதாபகரமான மற்றும் கைவிடப்பட்ட",
+        example: "The forlorn puppy waited for its owner.",
+        tamil_example:
+          "கைவிடப்பட்ட நாய்க்குட்டி அதன் உரிமையாளருக்காக காத்திருந்தது.",
+      },
+    ],
+  },
+  frugal: {
+    word: "frugal",
+    tamil: "சிக்கனமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Economical in use of resources",
+        tamil: "வளங்களை சிக்கனமாக பயன்படுத்தும்",
+        example: "He leads a frugal life.",
+        tamil_example: "அவர் ஒரு சிக்கனமான வாழ்க்கை வாழ்கிறார்.",
+      },
+    ],
+  },
+  fury: {
+    word: "fury",
+    tamil: "கோபம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Wild or violent anger",
+        tamil: "காட்டு அல்லது கொடூரமான கோபம்",
+        example: "He was filled with fury.",
+        tamil_example: "அவர் கோபத்தால் நிரம்பியிருந்தார்.",
+      },
+    ],
+  },
+  fabricate: {
+    word: "fabricate",
+    tamil: "போலியாக உருவாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To invent or create something false",
+        tamil: "பொய்யான ஒன்றை கண்டுபிடி அல்லது உருவாக்கு",
+        example: "He fabricated an excuse for being late.",
+        tamil_example: "தாமதமாக வந்ததற்கு அவர் ஒரு சாக்கை கட்டினார்.",
+      },
+    ],
+  },
+  facetious: {
+    word: "facetious",
+    tamil: "கேலிக்குரிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Treating serious issues with inappropriate humor",
+        tamil: "தீவிரமான விஷயங்களை பொருத்தமற்ற நகைச்சுவையுடன் நடத்துதல்",
+        example: "His facetious remarks annoyed everyone.",
+        tamil_example:
+          "அவரது கேலிக்குரிய குறிப்புகள் அனைவரையும் எரிச்சலூட்டின.",
+      },
+    ],
+  },
+  fallacy: {
+    word: "fallacy",
+    tamil: "தவறான நம்பிக்கை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A mistaken belief based on unsound argument",
+        tamil: "பலவீனமான வாதத்தின் அடிப்படையிலான தவறான நம்பிக்கை",
+        example: "The idea that money buys happiness is a fallacy.",
+        tamil_example:
+          "பணம் மகிழ்ச்சியை வாங்கும் என்ற எண்ணம் ஒரு தவறான நம்பிக்கை.",
+      },
+    ],
+  },
+  fathom: {
+    word: "fathom",
+    tamil: "ஆழம் அளத்தல்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To understand thoroughly",
+        tamil: "முழுமையாக புரிந்துகொள்ளுதல்",
+        example: "I can't fathom why he did that.",
+        tamil_example:
+          "அவர் அதை ஏன் செய்தார் என என்னால் புரிந்துகொள்ள முடியவில்லை.",
+      },
+    ],
+  },
+  feasible: {
+    word: "feasible",
+    tamil: "சாத்தியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Possible to do easily or conveniently",
+        tamil: "எளிதாக அல்லது வசதியாக செய்யக்கூடிய",
+        example: "The plan seems feasible.",
+        tamil_example: "திட்டம் சாத்தியமானதாக தெரிகிறது.",
+      },
+    ],
+  },
+  feign: {
+    word: "feign",
+    tamil: "போலி நடித்தல்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To pretend to be affected by something",
+        tamil: "ஏதாவது பாதிக்கப்பட்டதாக நடித்தல்",
+        example: "She feigned illness to skip work.",
+        tamil_example:
+          "அவள் வேலைக்கு வராமல் இருக்க நோய்வாய்ப்பட்டதாக நடித்தாள்.",
+      },
+    ],
+  },
+  felicity: {
+    word: "felicity",
+    tamil: "மகிழ்ச்சி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Intense happiness",
+        tamil: "தீவிரமான மகிழ்ச்சி",
+        example: "The couple's felicity was evident.",
+        tamil_example: "தம்பதியரின் மகிழ்ச்சி தெளிவாகத் தெரிந்தது.",
+      },
+    ],
+  },
+  fervor: {
+    word: "fervor",
+    tamil: "உணர்ச்சி வேகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Intense and passionate feeling",
+        tamil: "தீவிரமான மற்றும் உணர்ச்சிவசப்பட்ட உணர்வு",
+        example: "He spoke with great fervor.",
+        tamil_example: "அவர் மிகுந்த உணர்ச்சியுடன் பேசினார்.",
+      },
+    ],
+  },
+  fiasco: {
+    word: "fiasco",
+    tamil: "முற்றிலும் தோல்வி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A complete failure",
+        tamil: "முழுமையான தோல்வி",
+        example: "The party turned into a fiasco.",
+        tamil_example: "விருந்து முற்றிலும் தோல்வியாக மாறியது.",
+      },
+    ],
+  },
+  fickle: {
+    word: "fickle",
+    tamil: "மாறும் மனம் கொண்ட",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Likely to change frequently",
+        tamil: "அடிக்கடி மாறும் போக்கு உள்ள",
+        example: "The stock market is fickle.",
+        tamil_example: "பங்குச் சந்தை மாறும் மனம் கொண்டது.",
+      },
+    ],
+  },
+  fidelity: {
+    word: "fidelity",
+    tamil: "விசுவாசம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Faithfulness to a person, cause, or belief",
+        tamil: "ஒரு நபர், காரணம் அல்லது நம்பிக்கையில் விசுவாசம்",
+        example: "Marriage requires fidelity.",
+        tamil_example: "திருமணத்திற்கு விசுவாசம் தேவை.",
+      },
+    ],
+  },
+  filch: {
+    word: "filch",
+    tamil: "திருடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To steal something of small value",
+        tamil: "சிறிய மதிப்புள்ள ஒன்றை திருடுதல்",
+        example: "He filched a pen from the office.",
+        tamil_example: "அவர் அலுவலகத்தில் இருந்து ஒரு பேனாவை திருடினார்.",
+      },
+    ],
+  },
+  flabbergasted: {
+    word: "flabbergasted",
+    tamil: "மலைத்துப் போன",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Extremely surprised or shocked",
+        tamil: "மிகவும் ஆச்சரியமடைந்த அல்லது அதிர்ச்சியடைந்த",
+        example: "I was flabbergasted by the news.",
+        tamil_example: "செய்தியால் நான் மலைத்துப் போனேன்.",
+      },
+    ],
+  },
+  flaccid: {
+    word: "flaccid",
+    tamil: "தளர்ந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Soft and limp; not firm",
+        tamil: "மென்மையான மற்றும் தளர்ந்த; உறுதியற்ற",
+        example: "The plant became flaccid without water.",
+        tamil_example: "தண்ணீர் இல்லாமல் செடி தளர்ந்தது.",
+      },
+    ],
+  },
+  flagrant: {
+    word: "flagrant",
+    tamil: "வெளிப்படையான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Conspicuously or obviously offensive",
+        tamil: "தெளிவாக அல்லது வெளிப்படையாக தவறான",
+        example: "It was a flagrant violation of rules.",
+        tamil_example: "இது விதிகளின் வெளிப்படையான மீறல்.",
+      },
+    ],
+  },
+  flamboyant: {
+    word: "flamboyant",
+    tamil: "கண்ணைக் கவரும்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Tending to attract attention; showy",
+        tamil: "கவனத்தை ஈர்க்கும்; ஆடம்பரமான",
+        example: "She wore a flamboyant hat.",
+        tamil_example: "அவள் ஒரு கண்ணைக் கவரும் தொப்பியை அணிந்திருந்தாள்.",
+      },
+    ],
+  },
+  flippant: {
+    word: "flippant",
+    tamil: "அலட்சியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Not showing proper seriousness",
+        tamil: "சரியான தீவிரத்தைக் காட்டாத",
+        example: "His flippant attitude annoyed the teacher.",
+        tamil_example: "அவரது அலட்சியமான அணுகுமுறை ஆசிரியரை எரிச்சலூட்டியது.",
+      },
+    ],
+  },
+  florid: {
+    word: "florid",
+    tamil: "சிக்கலான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Excessively intricate or elaborate",
+        tamil: "அதிகமாக சிக்கலான அல்லது விரிவான",
+        example: "He wrote in a florid style.",
+        tamil_example: "அவர் ஒரு சிக்கலான பாணியில் எழுதினார்.",
+      },
+    ],
+  },
+  flout: {
+    word: "flout",
+    tamil: "அவமதி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Openly disregard a rule or convention",
+        tamil: "விதி அல்லது மரபை வெளிப்படையாக புறக்கணி",
+        example: "He flouted the school's dress code.",
+        tamil_example: "அவர் பள்ளியின் உடை விதிமுறைகளை அவமதித்தார்.",
+      },
+    ],
+  },
+  foible: {
+    word: "foible",
+    tamil: "பலவீனம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A minor weakness in character",
+        tamil: "பண்பில் ஒரு சிறிய பலவீனம்",
+        example: "We all have our little foibles.",
+        tamil_example: "நாம் அனைவருக்கும் நமது சிறிய பலவீனங்கள் உள்ளன.",
+      },
+    ],
+  },
+  elegant: {
+    word: "elegant",
+    tamil: "நேர்த்தியான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Graceful and stylish in appearance",
+        tamil: "தோற்றத்தில் நேர்த்தியான மற்றும் ஸ்டைலான",
+        example: "She wore an elegant dress to the party.",
+        tamil_example: "அவள் விருந்துக்கு ஒரு நேர்த்தியான உடை அணிந்திருந்தாள்.",
+      },
+    ],
+  },
+  element: {
+    word: "element",
+    tamil: "மூலகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A basic part of something",
+        tamil: "ஒன்றின் அடிப்படை பகுதி",
+        example: "Hard work is an essential element of success.",
+        tamil_example: "கடின உழைப்பு வெற்றிக்கு அத்தியாவசியமான மூலகம்.",
+      },
+    ],
+  },
+  elevator: {
+    word: "elevator",
+    tamil: "உயர்த்தி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A platform or compartment for moving people between floors",
+        tamil: "மாடிகளுக்கு இடையே மக்களை செலுத்தும் இடம்",
+        example: "We took the elevator to the 10th floor.",
+        tamil_example: "நாங்கள் 10வது மாடிக்கு உயர்த்தியில் சென்றோம்.",
+      },
+    ],
+  },
+  eliminate: {
+    word: "eliminate",
+    tamil: "நீக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To completely remove something",
+        tamil: "ஒன்றை முழுமையாக அகற்றுதல்",
+        example: "The doctor wants to eliminate sugar from my diet.",
+        tamil_example: "மருத்துவர் என் உணவில் சர்க்கரையை நீக்க விரும்புகிறார்.",
+      },
+    ],
+  },
+  embarrass: {
+    word: "embarrass",
+    tamil: "வெட்கப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make someone feel awkward or ashamed",
+        tamil: "யாரையாவது அசௌகரியமாக அல்லது வெட்கப்படுத்துதல்",
+        example: "His loud comments embarrassed me.",
+        tamil_example: "அவரின் சத்தமான கருத்துகள் என்னை வெட்கப்படுத்தின.",
+      },
+    ],
+  },
+  emerge: {
+    word: "emerge",
+    tamil: "வெளிப்படு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To come out into view",
+        tamil: "பார்வைக்கு வெளியே வருதல்",
+        example: "The sun emerged from behind the clouds.",
+        tamil_example: "சூரியன் மேகங்களுக்கு பின்னால் இருந்து வெளிப்பட்டது.",
+      },
+    ],
+  },
+  emphasis: {
+    word: "emphasis",
+    tamil: "அழுத்தம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Special importance given to something",
+        tamil: "ஒன்றுக்கு சிறப்பு முக்கியத்துவம் கொடுத்தல்",
+        example: "The school puts emphasis on discipline.",
+        tamil_example: "பள்ளி ஒழுக்கத்திற்கு அழுத்தம் கொடுக்கிறது.",
+      },
+    ],
+  },
+  empire: {
+    word: "empire",
+    tamil: "பேரரசு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A group of countries under single authority",
+        tamil: "ஒற்றை அதிகாரத்தின் கீழ் உள்ள நாடுகளின் குழு",
+        example: "The Roman Empire was powerful.",
+        tamil_example: "ரோமானிய பேரரசு சக்திவாய்ந்ததாக இருந்தது.",
+      },
+    ],
+  },
+  enclose: {
+    word: "enclose",
+    tamil: "சூழ்ந்திரு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To surround on all sides",
+        tamil: "எல்லா பக்கங்களிலும் சூழ்ந்திருத்தல்",
+        example: "The garden is enclosed by a fence.",
+        tamil_example: "தோட்டம் வேலியால் சூழப்பட்டுள்ளது.",
+      },
+    ],
+  },
+  encounter: {
+    word: "encounter",
+    tamil: "சந்திப்பு",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "An unexpected meeting",
+        tamil: "எதிர்பாராத சந்திப்பு",
+        example: "We had a strange encounter in the forest.",
+        tamil_example:
+          "காட்டில் ஒரு விசித்திரமான சந்திப்பை எங்களுக்கு ஏற்பட்டது.",
+      },
+    ],
+  },
+  endless: {
+    word: "endless",
+    tamil: "முடிவில்லாத",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Having no end or limit",
+        tamil: "முடிவு அல்லது வரம்பு இல்லாத",
+        example: "The desert seemed endless.",
+        tamil_example: "பாலைவனம் முடிவில்லாததாக தோன்றியது.",
+      },
+    ],
+  },
+  endure: {
+    word: "endure",
+    tamil: "தாங்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To suffer patiently",
+        tamil: "பொறுமையாக துன்பப்படுதல்",
+        example: "She endured the pain bravely.",
+        tamil_example: "அவள் வலியை தைரியமாக தாங்கினாள்.",
+      },
+    ],
+  },
+  engage: {
+    word: "engage",
+    tamil: "ஈடுபடுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To participate or become involved",
+        tamil: "பங்கேற்றல் அல்லது ஈடுபடுதல்",
+        example: "The teacher tried to engage all students.",
+        tamil_example: "ஆசிரியர் அனைத்து மாணவர்களையும் ஈடுபடுத்த முயன்றார்.",
+      },
+    ],
+  },
+  enormous: {
+    word: "enormous",
+    tamil: "மிகப்பெரிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Very large in size or quantity",
+        tamil: "அளவு அல்லது அளவில் மிகப் பெரியது",
+        example: "An enormous crowd gathered.",
+        tamil_example: "ஒரு மிகப்பெரிய கூட்டம் கூடியது.",
+      },
+    ],
+  },
+  enroll: {
+    word: "enroll",
+    tamil: "பதிவு செய்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To officially register for something",
+        tamil: "ஒன்றுக்கு அதிகாரப்பூர்வமாக பதிவு செய்தல்",
+        example: "I enrolled in a French course.",
+        tamil_example: "நான் ஒரு பிரஞ்சு வகுப்பில் பதிவு செய்தேன்.",
+      },
+    ],
+  },
+  entertain: {
+    word: "entertain",
+    tamil: "பொழுதுபோக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To provide amusement",
+        tamil: "வேடிக்கையாக வைத்திருத்தல்",
+        example: "He entertained us with magic tricks.",
+        tamil_example: "அவர் மாய வித்தைகளால் எங்களை பொழுதுபோக்கினார்.",
+      },
+    ],
+  },
+  enthusiasm: {
+    word: "enthusiasm",
+    tamil: "உற்சாகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Intense enjoyment or interest",
+        tamil: "தீவிர மகிழ்ச்சி அல்லது ஆர்வம்",
+        example: "She showed great enthusiasm for learning.",
+        tamil_example: "அவள் கற்றலுக்கு பெரும் உற்சாகம் காட்டினாள்.",
+      },
+    ],
+  },
+  entirely: {
+    word: "entirely",
+    tamil: "முழுமையாக",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "Completely or fully",
+        tamil: "முழுமையாக அல்லது முற்றிலும்",
+        example: "I entirely agree with you.",
+        tamil_example: "நான் உங்களுடன் முழுமையாக ஏற்கிறேன்.",
+      },
+    ],
+  },
+  episode: {
+    word: "episode",
+    tamil: "எபிசோட்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "An event or a group of events",
+        tamil: "ஒரு நிகழ்வு அல்லது நிகழ்வுகளின் தொகுப்பு",
+        example: "The next episode will air tomorrow.",
+        tamil_example: "அடுத்த எபிசோட் நாளை ஒளிபரப்பப்படும்.",
+      },
+    ],
+  },
+  equip: {
+    word: "equip",
+    tamil: "உபகரணங்கள் கொடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To provide with necessary items",
+        tamil: "தேவையான பொருட்களை வழங்குதல்",
+        example: "The lab is equipped with modern instruments.",
+        tamil_example: "ஆய்வகம் நவீன கருவிகளுடன் உபகரணப்படுத்தப்பட்டுள்ளது.",
+      },
+    ],
+  },
+  forage: {
+    word: "forage",
+    tamil: "தேடி உணவு சேகரி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To search widely for food or provisions",
+        tamil: "உணவு அல்லது தேவைப்பொருட்களுக்காக விரிவாக தேடுதல்",
+        example: "The animals forage in the woods for berries.",
+        tamil_example:
+          "விலங்குகள் காடுகளில் பெர்ரிகளை தேடி உணவு சேகரிக்கின்றன.",
+      },
+    ],
+  },
+  forbear: {
+    word: "forbear",
+    tamil: "தவிர்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To refrain from doing something",
+        tamil: "ஏதாவது செய்வதை தவிர்த்தல்",
+        example: "I shall forbear from commenting further.",
+        tamil_example: "நான் மேலும் கருத்து தெரிவிப்பதை தவிர்க்கிறேன்.",
+      },
+    ],
+  },
+  ford: {
+    word: "ford",
+    tamil: "நீரில் கால்நடையாக கடத்தல்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A shallow place in a river where one can cross",
+        tamil: "ஒரு ஆற்றில் குறைந்த ஆழமுள்ள கடக்கக்கூடிய இடம்",
+        example: "We crossed the river at the ford.",
+        tamil_example: "நாங்கள் ஆற்றை நீரில் கால்நடையாக கடந்தோம்.",
+      },
+    ],
+  },
+  foreboding: {
+    word: "foreboding",
+    tamil: "தீய சகுனம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A feeling that something bad will happen",
+        tamil: "ஏதோ தீமை நிகழப்போகிறது என்ற உணர்வு",
+        example: "She had a sense of foreboding about the trip.",
+        tamil_example: "பயணம் குறித்து அவளுக்கு தீய சகுனம் உணர்ந்தது.",
+      },
+    ],
+  },
+  forestall: {
+    word: "forestall",
+    tamil: "முன்கூட்டியே தடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To prevent or obstruct by taking action ahead of time",
+        tamil: "முன்னதாக நடவடிக்கை எடுத்து தடுத்தல்",
+        example: "We installed alarms to forestall burglaries.",
+        tamil_example: "திருட்டுகளை முன்கூட்டியே தடுக்க அலாரங்கள் நிறுவினோம்.",
+      },
+    ],
+  },
+  forgo: {
+    word: "forgo",
+    tamil: "தவிர்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To go without or refrain from",
+        tamil: "ஏதாவது இல்லாமல் இருப்பது அல்லது தவிர்த்தல்",
+        example: "I'll forgo dessert tonight.",
+        tamil_example: "இன்று இரவு இனிப்பை நான் தவிர்க்கிறேன்.",
+      },
+    ],
+  },
+  forsake: {
+    word: "forsake",
+    tamil: "கைவிடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To abandon or give up",
+        tamil: "விட்டுவிடுதல் அல்லது துறத்தல்",
+        example: "He promised never to forsake her.",
+        tamil_example:
+          "அவளை ஒருபோதும் கைவிட மாட்டேன் என்று அவர் உறுதியளித்தார்.",
+      },
+    ],
+  },
+  forte: {
+    word: "forte",
+    tamil: "வலிமை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A thing at which someone excels",
+        tamil: "யாராவது சிறப்பாக செய்யக்கூடிய விஷயம்",
+        example: "Public speaking is not my forte.",
+        tamil_example: "பொது உரையாற்றுதல் எனது வலிமையான துறை அல்ல.",
+      },
+    ],
+  },
+  fortitude: {
+    word: "fortitude",
+    tamil: "தைரியம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Courage in pain or adversity",
+        tamil: "வலி அல்லது துன்பத்தில் காட்டும் தைரியம்",
+        example: "She bore her illness with great fortitude.",
+        tamil_example: "அவள் தனது நோயை மிகுந்த தைரியத்துடன் தாங்கினாள்.",
+      },
+    ],
+  },
+  fortuitous: {
+    word: "fortuitous",
+    tamil: "தற்செயலான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Happening by chance rather than intention",
+        tamil: "நோக்கம் இல்லாமல் தற்செயலாக நிகழும்",
+        example: "Our meeting was entirely fortuitous.",
+        tamil_example: "எங்கள் சந்திப்பு முற்றிலும் தற்செயலானது.",
+      },
+    ],
+  },
+  foster: {
+    word: "foster",
+    tamil: "வளர்ப்பு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To encourage or promote development",
+        tamil: "வளர்ச்சியை ஊக்குவித்தல் அல்லது முன்னேற்றுதல்",
+        example: "The program fosters creativity in children.",
+        tamil_example: "இந்த திட்டம் குழந்தைகளில் படைப்பாற்றலை வளர்க்கிறது.",
+      },
+    ],
+  },
+  fracas: {
+    word: "fracas",
+    tamil: "சண்டை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A noisy disturbance or quarrel",
+        tamil: "ஒரு சத்தமான தொந்தரவு அல்லது சண்டை",
+        example: "A fracas broke out in the bar.",
+        tamil_example: "பாரில் ஒரு சண்டை வெடித்தது.",
+      },
+    ],
+  },
+  fractious: {
+    word: "fractious",
+    tamil: "சண்டைக்கார",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Irritable and quarrelsome",
+        tamil: "எரிச்சலூட்டும் மற்றும் சண்டைக்கார",
+        example: "The fractious child wouldn't stop crying.",
+        tamil_example: "சண்டைக்கார குழந்தை அழுவதை நிறுத்தவில்லை.",
+      },
+    ],
+  },
+  fraught: {
+    word: "fraught",
+    tamil: "நிறைந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Filled with or likely to result in something undesirable",
+        tamil: "ஏதாவது விரும்பத்தகாதவற்றால் நிரம்பியிருத்தல்",
+        example: "The situation was fraught with danger.",
+        tamil_example: "நிலைமை ஆபத்துகளால் நிறைந்திருந்தது.",
+      },
+    ],
+  },
+  frenetic: {
+    word: "frenetic",
+    tamil: "பைத்தியக்காரத்தனமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Fast and energetic in a wild, uncontrolled way",
+        tamil: "வேகமாகவும் ஆற்றலுடனும் கட்டுப்பாடற்ற முறையில்",
+        example: "The office was a scene of frenetic activity.",
+        tamil_example:
+          "அலுவலகம் பைத்தியக்காரத்தனமான செயல்பாடுகளின் காட்சியாக இருந்தது.",
+      },
+    ],
+  },
+  fret: {
+    word: "fret",
+    tamil: "கவலைப்படு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To be constantly or visibly worried",
+        tamil: "தொடர்ந்து அல்லது வெளிப்படையாக கவலைப்படுதல்",
+        example: "Don't fret over small problems.",
+        tamil_example: "சிறிய பிரச்சினைகளால் கவலைப்பட வேண்டாம்.",
+      },
+    ],
+  },
+  fringe: {
+    word: "fringe",
+    tamil: "விளிம்பு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The outer edge of an area or group",
+        tamil: "ஒரு பகுதி அல்லது குழுவின் வெளிப்புற விளிம்பு",
+        example: "They live on the fringe of the forest.",
+        tamil_example: "அவர்கள் காட்டின் விளிம்பில் வாழ்கிறார்கள்.",
+      },
+    ],
+  },
+  frivolous: {
+    word: "frivolous",
+    tamil: "அற்பமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Not having any serious purpose or value",
+        tamil: "எந்தவொரு தீவிரமான நோக்கம் அல்லது மதிப்பும் இல்லாத",
+        example: "She spends money on frivolous things.",
+        tamil_example: "அவள் அற்பமான விஷயங்களில் பணத்தை செலவிடுகிறாள்.",
+      },
+    ],
+  },
+  frolic: {
+    word: "frolic",
+    tamil: "களியாட்டம்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To play and move about cheerfully",
+        tamil: "மகிழ்ச்சியுடன் விளையாடுதல் மற்றும் நகர்தல்",
+        example: "The children frolicked in the park.",
+        tamil_example: "குழந்தைகள் பூங்காவில் களியாட்டம் செய்தன.",
+      },
+    ],
+  },
+  frugal: {
+    word: "frugal",
+    tamil: "சிக்கனமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Economical in use of resources",
+        tamil: "வளங்களை சிக்கனமாக பயன்படுத்தும்",
+        example: "He leads a frugal lifestyle.",
+        tamil_example: "அவர் ஒரு சிக்கனமான வாழ்க்கை முறையை வாழ்கிறார்.",
+      },
+    ],
+  },
+  era: {
+    word: "era",
+    tamil: "யுகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A long and distinct period of history",
+        tamil: "வரலாற்றின் நீண்ட மற்றும் தனித்த காலம்",
+        example: "The digital era has changed communication.",
+        tamil_example: "டிஜிட்டல் யுகம் தகவல்தொடர்பை மாற்றியுள்ளது.",
+      },
+    ],
+  },
+  erase: {
+    word: "erase",
+    tamil: "அழி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To remove completely",
+        tamil: "முற்றிலும் நீக்குதல்",
+        example: "Please erase the whiteboard after class.",
+        tamil_example: "வகுப்புக்குப் பிறகு வைட்போர்டை அழிக்கவும்.",
+      },
+    ],
+  },
+  erupt: {
+    word: "erupt",
+    tamil: "வெடி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To burst out suddenly",
+        tamil: "திடீரென வெடித்தல்",
+        example: "The volcano erupted after 100 years.",
+        tamil_example: "எரிமலை 100 ஆண்டுகளுக்குப் பிறகு வெடித்தது.",
+      },
+    ],
+  },
+  essay: {
+    word: "essay",
+    tamil: "கட்டுரை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A short piece of writing on a subject",
+        tamil: "ஒரு பொருளில் குறுகிய எழுத்து",
+        example: "She wrote an essay about pollution.",
+        tamil_example: "அவள் மாசுபாடு பற்றி ஒரு கட்டுரை எழுதினாள்.",
+      },
+    ],
+  },
+  essential: {
+    word: "essential",
+    tamil: "அத்தியாவசிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Absolutely necessary",
+        tamil: "முற்றிலும் அவசியமான",
+        example: "Water is essential for life.",
+        tamil_example: "தண்ணீர் வாழ்க்கைக்கு அத்தியாவசியமானது.",
+      },
+    ],
+  },
+  establish: {
+    word: "establish",
+    tamil: "நிறுவு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To set up permanently",
+        tamil: "நிரந்தரமாக அமைத்தல்",
+        example: "They established a new school.",
+        tamil_example: "அவர்கள் ஒரு புதிய பள்ளியை நிறுவினர்.",
+      },
+    ],
+  },
+  estimate: {
+    word: "estimate",
+    tamil: "மதிப்பீடு",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "An approximate calculation",
+        tamil: "தோராயமான கணக்கீடு",
+        example: "The mechanic gave me a repair estimate.",
+        tamil_example: "மெக்கானிக் எனக்கு ஒரு பழுது மதிப்பீட்டைக் கொடுத்தார்.",
+      },
+    ],
+  },
+  eternal: {
+    word: "eternal",
+    tamil: "நித்திய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Lasting forever",
+        tamil: "என்றென்றும் நிலைக்கும்",
+        example: "The soul is believed to be eternal.",
+        tamil_example: "ஆத்மா நித்தியம் என்று நம்பப்படுகிறது.",
+      },
+    ],
+  },
+  evaluate: {
+    word: "evaluate",
+    tamil: "மதிப்பிடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To assess or judge",
+        tamil: "மதிப்பீடு செய்தல்",
+        example: "Teachers evaluate students' progress.",
+        tamil_example:
+          "ஆசிரியர்கள் மாணவர்களின் முன்னேற்றத்தை மதிப்பிடுகிறார்கள்.",
+      },
+    ],
+  },
+  evaporate: {
+    word: "evaporate",
+    tamil: "ஆவியாகு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To change from liquid to vapor",
+        tamil: "திரவத்திலிருந்து ஆவியாக மாறுதல்",
+        example: "Water evaporates in sunlight.",
+        tamil_example: "நீர் சூரிய ஒளியில் ஆவியாகிறது.",
+      },
+    ],
+  },
+  evening: {
+    word: "evening",
+    tamil: "மாலை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The period between afternoon and night",
+        tamil: "பிற்பகல் மற்றும் இரவுக்கு இடைப்பட்ட நேரம்",
+        example: "We go for walks in the evening.",
+        tamil_example: "நாங்கள் மாலையில் நடைப்பயணம் செல்கிறோம்.",
+      },
+    ],
+  },
+  evidence: {
+    word: "evidence",
+    tamil: "ஆதாரம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Proof or indication",
+        tamil: "ஆதாரம் அல்லது அடையாளம்",
+        example: "The police collected evidence.",
+        tamil_example: "போலீஸ் ஆதாரங்களை சேகரித்தது.",
+      },
+    ],
+  },
+  evil: {
+    word: "evil",
+    tamil: "தீய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Profoundly immoral",
+        tamil: "மிகவும் ஒழுக்கக்கேடான",
+        example: "The villain had evil intentions.",
+        tamil_example: "வில்லனுக்கு தீய எண்ணங்கள் இருந்தன.",
+      },
+    ],
+  },
+  evolve: {
+    word: "evolve",
+    tamil: "பரிணாமம்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To develop gradually",
+        tamil: "படிப்படியாக வளர்ச்சியடைதல்",
+        example: "Technology evolves rapidly.",
+        tamil_example: "தொழில்நுட்பம் வேகமாக பரிணமிக்கிறது.",
+      },
+    ],
+  },
+  exaggerate: {
+    word: "exaggerate",
+    tamil: "மிகைப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To represent as larger than reality",
+        tamil: "உண்மையை விட பெரிதாக காட்டுதல்",
+        example: "Don't exaggerate your achievements.",
+        tamil_example: "உங்கள் சாதனைகளை மிகைப்படுத்த வேண்டாம்.",
+      },
+    ],
+  },
+  examine: {
+    word: "examine",
+    tamil: "பரிசோதி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To inspect closely",
+        tamil: "நெருக்கமாக ஆய்வு செய்தல்",
+        example: "The doctor will examine you now.",
+        tamil_example: "டாக்டர் இப்போது உங்களை பரிசோதிப்பார்.",
+      },
+    ],
+  },
+  exceed: {
+    word: "exceed",
+    tamil: "மீறு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To go beyond limits",
+        tamil: "வரம்புகளை தாண்டுதல்",
+        example: "Don't exceed the speed limit.",
+        tamil_example: "வேக வரம்பை மீற வேண்டாம்.",
+      },
+    ],
+  },
+  exchange: {
+    word: "exchange",
+    tamil: "பரிமாற்றம்",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "To give and receive reciprocally",
+        tamil: "பரஸ்பரம் கொடுத்தல் மற்றும் பெறுதல்",
+        example: "We exchanged phone numbers.",
+        tamil_example: "நாங்கள் தொலைபேசி எண்களை பரிமாறிக் கொண்டோம்.",
+      },
+    ],
+  },
+  exclaim: {
+    word: "exclaim",
+    tamil: "உரக்க கூவு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To cry out suddenly",
+        tamil: "திடீரென கூச்சலிடுதல்",
+        example: "She exclaimed in surprise.",
+        tamil_example: "அவள் ஆச்சரியத்தில் கூச்சலிட்டாள்.",
+      },
+    ],
+  },
+  exhaust: {
+    word: "exhaust",
+    tamil: "தீர்ந்து போ",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To use up completely",
+        tamil: "முழுவதுமாக பயன்படுத்துதல்",
+        example: "The long journey exhausted me.",
+        tamil_example: "நீண்ட பயணம் என்னை தீர்ந்துபோக செய்தது.",
+      },
+    ],
+  },
+  exhibit: {
+    word: "exhibit",
+    tamil: "கண்காட்சி",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "To display publicly",
+        tamil: "பொதுவாக காட்சிப்படுத்துதல்",
+        example: "The museum exhibits ancient artifacts.",
+        tamil_example:
+          "அருங்காட்சியகம் பழங்கால கலைப்பொருட்களை காட்சிப்படுத்துகிறது.",
+      },
+    ],
+  },
+  exist: {
+    word: "exist",
+    tamil: "இரு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To have actual being",
+        tamil: "உண்மையான இருப்பு கொண்டிருத்தல்",
+        example: "Do aliens exist?",
+        tamil_example: "வெளிநாட்டினர் உண்மையில் இருக்கிறார்களா?",
+      },
+    ],
+  },
+  expand: {
+    word: "expand",
+    tamil: "விரிவாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To increase in size",
+        tamil: "அளவில் அதிகரித்தல்",
+        example: "Metals expand when heated.",
+        tamil_example: "உலோகங்கள் சூடாக்கப்படும் போது விரிவடைகின்றன.",
+      },
+    ],
+  },
+  expectation: {
+    word: "expectation",
+    tamil: "எதிர்பார்ப்பு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A strong belief about the future",
+        tamil: "எதிர்காலம் குறித்த வலுவான நம்பிக்கை",
+        example: "The movie didn't meet our expectations.",
+        tamil_example: "படம் எங்கள் எதிர்பார்ப்புகளை நிறைவேற்றவில்லை.",
+      },
+    ],
+  },
+  expedition: {
+    word: "expedition",
+    tamil: "தொழில் பயணம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A journey for a specific purpose",
+        tamil: "குறிப்பிட்ட நோக்கத்திற்கான பயணம்",
+        example: "They went on a mountain expedition.",
+        tamil_example: "அவர்கள் ஒரு மலை தொழில் பயணத்திற்கு சென்றனர்.",
+      },
+    ],
+  },
+  expert: {
+    word: "expert",
+    tamil: "நிபுணர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A person with special knowledge",
+        tamil: "சிறப்பு அறிவு கொண்ட நபர்",
+        example: "She's an expert in computer science.",
+        tamil_example: "அவர் கணினி அறிவியலில் நிபுணர்.",
+      },
+    ],
+  },
+  explore: {
+    word: "explore",
+    tamil: "ஆராய்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To investigate systematically",
+        tamil: "முறையாக விசாரணை செய்தல்",
+        example: "Scientists explore new theories.",
+        tamil_example: "விஞ்ஞானிகள் புதிய கோட்பாடுகளை ஆராய்கிறார்கள்.",
+      },
+    ],
+  },
+  export: {
+    word: "export",
+    tamil: "ஏற்றுமதி",
+    type: "noun/verb",
+    meanings: [
+      {
+        meaning: "To send goods to another country",
+        tamil: "பொருட்களை மற்ற நாட்டிற்கு அனுப்புதல்",
+        example: "India exports software services.",
+        tamil_example: "இந்தியா மென்பொருள் சேவைகளை ஏற்றுமதி செய்கிறது.",
+      },
+    ],
+  },
+  expose: {
+    word: "expose",
+    tamil: "வெளிப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make visible",
+        tamil: "தெரியச் செய்தல்",
+        example: "The investigation exposed corruption.",
+        tamil_example: "விசாரணை ஊழலை வெளிப்படுத்தியது.",
+      },
+    ],
+  },
+  extend: {
+    word: "extend",
+    tamil: "நீட்டு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make longer",
+        tamil: "நீளமாக்குதல்",
+        example: "They extended the deadline.",
+        tamil_example: "அவர்கள் காலக்கெடுவை நீட்டித்தனர்.",
+      },
+    ],
+  },
+  fulminate: {
+    word: "fulminate",
+    tamil: "கடுமையாக கண்டி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To express vehement protest",
+        tamil: "கடுமையான எதிர்ப்பை வெளிப்படுத்துதல்",
+        example: "The senator fulminated against the new law.",
+        tamil_example:
+          "செனட்டர் புதிய சட்டத்துக்கு எதிராக கடுமையாக கண்டித்தார்.",
+      },
+    ],
+  },
+  furtive: {
+    word: "furtive",
+    tamil: "மறைமுகமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Attempting to avoid notice or attention",
+        tamil: "கவனத்தை தவிர்க்க முயற்சிக்கும்",
+        example: "He cast a furtive glance at the documents.",
+        tamil_example: "அவர் ஆவணங்களை மறைமுகமாக பார்த்தார்.",
+      },
+    ],
+  },
+  futile: {
+    word: "futile",
+    tamil: "வீணான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Incapable of producing any useful result",
+        tamil: "எந்த பயனுள்ள முடிவையும் தர முடியாத",
+        example: "Our attempts to fix it were futile.",
+        tamil_example: "அதை சரிசெய்ய எங்கள் முயற்சிகள் வீணாகின.",
+      },
+    ],
+  },
+  fabricate: {
+    word: "fabricate",
+    tamil: "போலியாக உருவாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To invent or create something false",
+        tamil: "பொய்யான ஒன்றை கண்டுபிடி அல்லது உருவாக்கு",
+        example: "He fabricated evidence to support his claim.",
+        tamil_example: "தனது கோரிக்கையை ஆதரிக்க போலி ஆதாரங்களை உருவாக்கினார்.",
+      },
+    ],
+  },
+  facilitate: {
+    word: "facilitate",
+    tamil: "எளிதாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To make an action or process easier",
+        tamil: "ஒரு செயல் அல்லது செயல்முறையை எளிதாக்குதல்",
+        example: "The new software facilitates data analysis.",
+        tamil_example: "புதிய மென்பொருள் தரவு பகுப்பாய்வை எளிதாக்குகிறது.",
+      },
+    ],
+  },
+  fallacious: {
+    word: "fallacious",
+    tamil: "தவறான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Based on a mistaken belief",
+        tamil: "தவறான நம்பிக்கையை அடிப்படையாகக் கொண்ட",
+        example: "His argument was fallacious.",
+        tamil_example: "அவரது வாதம் தவறானது.",
+      },
+    ],
+  },
+  fastidious: {
+    word: "fastidious",
+    tamil: "அதிக தேர்வுடைய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Very attentive to accuracy and detail",
+        tamil: "துல்லியம் மற்றும் விவரங்களுக்கு மிகுந்த கவனம் செலுத்தும்",
+        example: "She's fastidious about her work.",
+        tamil_example: "அவர் தனது வேலையில் அதிக தேர்வுடையவர்.",
+      },
+    ],
+  },
+  feasible: {
+    word: "feasible",
+    tamil: "சாத்தியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Possible to do easily or conveniently",
+        tamil: "எளிதாக அல்லது வசதியாக செய்யக்கூடிய",
+        example: "Is the project feasible within our budget?",
+        tamil_example: "எங்கள் பட்ஜெட் வரம்புக்குள் திட்டம் சாத்தியமானதா?",
+      },
+    ],
+  },
+  fervent: {
+    word: "fervent",
+    tamil: "உணர்ச்சிவசப்பட்ட",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Having or displaying passionate intensity",
+        tamil: "உணர்ச்சி மிகுந்த தீவிரத்தைக் கொண்டிருத்தல்",
+        example: "She's a fervent supporter of human rights.",
+        tamil_example: "அவர் மனித உரிமைகளின் உணர்ச்சிவசப்பட்ட ஆதரவாளர்.",
+      },
+    ],
+  },
+  fickle: {
+    word: "fickle",
+    tamil: "மாறும் மனம் கொண்ட",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Changing frequently, especially regarding loyalties",
+        tamil: "அடிக்கடி மாறும் (குறிப்பாக விசுவாசங்களில்)",
+        example: "The weather here is fickle.",
+        tamil_example: "இங்குள்ள வானிலை மாறும் மனம் கொண்டது.",
+      },
+    ],
+  },
+  finesse: {
+    word: "finesse",
+    tamil: "நுட்பம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Impressive delicacy and skill",
+        tamil: "ஈர்க்கக்கூடிய நுட்பம் மற்றும் திறமை",
+        example: "She handled the situation with finesse.",
+        tamil_example: "அவர் நிலைமையை நுட்பத்துடன் கையாண்டார்.",
+      },
+    ],
+  },
+  flamboyant: {
+    word: "flamboyant",
+    tamil: "கண்ணைக் கவரும்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Tending to attract attention; showy",
+        tamil: "கவனத்தை ஈர்க்கும்; ஆடம்பரமான",
+        example: "He has a flamboyant personality.",
+        tamil_example: "அவர் கண்ணைக் கவரும் ஆளுமை கொண்டவர்.",
+      },
+    ],
+  },
+  flippant: {
+    word: "flippant",
+    tamil: "அலட்சியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Not showing proper seriousness",
+        tamil: "சரியான தீவிரத்தைக் காட்டாத",
+        example: "His flippant remarks offended many.",
+        tamil_example: "அவரது அலட்சியமான குறிப்புகள் பலரை புண்படுத்தின.",
+      },
+    ],
+  },
+  florid: {
+    word: "florid",
+    tamil: "அலங்காரமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Excessively intricate or elaborate",
+        tamil: "அதிகமாக சிக்கலான அல்லது விரிவான",
+        example: "The florid decorations overwhelmed the room.",
+        tamil_example: "அலங்காரமான அலங்காரங்கள் அறையை மூழ்கடித்தன.",
+      },
+    ],
+  },
+  flounder: {
+    word: "flounder",
+    tamil: "தடுமாறு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To struggle mentally or physically",
+        tamil: "மனதளவில் அல்லது உடல் ரீதியாக போராடுதல்",
+        example: "He floundered when asked difficult questions.",
+        tamil_example: "கடினமான கேள்விகள் கேட்கப்பட்டபோது அவர் தடுமாறினார்.",
+      },
+    ],
+  },
+  foil: {
+    word: "foil",
+    tamil: "தடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To prevent something bad from succeeding",
+        tamil: "ஏதாவது தீயது வெற்றிபெறாமல் தடுத்தல்",
+        example: "Security foiled the robbery attempt.",
+        tamil_example: "பாதுகாப்பு திருட்டு முயற்சியை தடுத்தது.",
+      },
+    ],
+  },
+  forage: {
+    word: "forage",
+    tamil: "தேடிச்செல்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To search widely for food or provisions",
+        tamil: "உணவு அல்லது தேவைப்பொருட்களுக்காக விரிவாக தேடுதல்",
+        example: "Bears forage before hibernation.",
+        tamil_example: "கரடிகள் உறக்கத்திற்கு முன் தேடிச்செல்கின்றன.",
+      },
+    ],
+  },
+  forbear: {
+    word: "forbear",
+    tamil: "தவிர்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To refrain from doing something",
+        tamil: "ஏதாவது செய்வதை தவிர்த்தல்",
+        example: "I shall forbear from making comments.",
+        tamil_example: "நான் கருத்துகள் தெரிவிப்பதை தவிர்க்கிறேன்.",
+      },
+    ],
+  },
+  forestall: {
+    word: "forestall",
+    tamil: "முன்னெச்சரிக்கை",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To prevent or obstruct by taking action ahead of time",
+        tamil: "முன்னதாக நடவடிக்கை எடுத்து தடுத்தல்",
+        example: "We took steps to forestall problems.",
+        tamil_example:
+          "பிரச்சினைகளைத் தடுக்க முன்னெச்சரிக்கை நடவடிக்கைகள் எடுத்தோம்.",
+      },
+    ],
+  },
+  extinct: {
+    word: "extinct",
+    tamil: "அழிந்துபோன",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "No longer in existence",
+        tamil: "இனி இல்லாத",
+        example: "Dinosaurs are extinct animals.",
+        tamil_example: "டைனோசர்கள் அழிந்துபோன விலங்குகள்.",
+      },
+    ],
+  },
+  extraordinary: {
+    word: "extraordinary",
+    tamil: "அசாதாரண",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Very unusual or remarkable",
+        tamil: "மிகவும் அசாதாரணமான",
+        example: "She showed extraordinary courage.",
+        tamil_example: "அவள் அசாதாரண தைரியம் காட்டினாள்.",
+      },
+    ],
+  },
+  extreme: {
+    word: "extreme",
+    tamil: "தீவிர",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Reaching a high degree",
+        tamil: "உயர் அளவை அடைதல்",
+        example: "They faced extreme difficulties.",
+        tamil_example: "அவர்கள் தீவிர சிரமங்களை எதிர்கொண்டனர்.",
+      },
+    ],
+  },
+  eyebrow: {
+    word: "eyebrow",
+    tamil: "புருவம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The arch of hair above the eye",
+        tamil: "கண்ணுக்கு மேலே உள்ள முடி வளைவு",
+        example: "She raised her eyebrow in surprise.",
+        tamil_example: "அவள் ஆச்சரியத்தில் புருவத்தை உயர்த்தினாள்.",
+      },
+    ],
+  },
+  eagerly: {
+    word: "eagerly",
+    tamil: "ஆர்வத்துடன்",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "With keen interest",
+        tamil: "கூர்மையான ஆர்வத்துடன்",
+        example: "The children waited eagerly for gifts.",
+        tamil_example: "குழந்தைகள் பரிசுகளுக்காக ஆர்வத்துடன் காத்திருந்தனர்.",
+      },
+    ],
+  },
+  earnestly: {
+    word: "earnestly",
+    tamil: "ஆழ்ந்த",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "With sincere conviction",
+        tamil: "நேர்மையான நம்பிக்கையுடன்",
+        example: "He worked earnestly on the project.",
+        tamil_example: "அவர் திட்டத்தில் ஆழ்ந்த முயற்சியுடன் பணியாற்றினார்.",
+      },
+    ],
+  },
+  earthly: {
+    word: "earthly",
+    tamil: "பூமிக்குரிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Relating to earthly life",
+        tamil: "பூமி வாழ்க்கைக்குரிய",
+        example: "He had no earthly possessions.",
+        tamil_example: "அவருக்கு பூமிக்குரிய சொத்துக்கள் எதுவும் இல்லை.",
+      },
+    ],
+  },
+  ease: {
+    word: "ease",
+    tamil: "எளிதாக்கு",
+    type: "verb/noun",
+    meanings: [
+      {
+        meaning: "Make something less difficult",
+        tamil: "ஏதாவது குறைந்த கடினமாக்கு",
+        example: "Medication eased the pain.",
+        tamil_example: "மருந்து வலியை எளிதாக்கியது.",
+      },
+    ],
+  },
+  echo: {
+    word: "echo",
+    tamil: "பிரதிபலிப்பு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Repetition of sound by reflection",
+        tamil: "ஒலியின் எதிரொலிப்பு",
+        example: "We heard echoes in the valley.",
+        tamil_example: "பள்ளத்தாக்கில் எதிரொலிகளைக் கேட்டோம்.",
+      },
+    ],
+  },
+  eclipse: {
+    word: "eclipse",
+    tamil: "கிரகணம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Obscuring of one celestial body by another",
+        tamil: "ஒரு வான உடல் மற்றொன்றால் மறைக்கப்படுதல்",
+        example: "We watched the solar eclipse.",
+        tamil_example: "நாங்கள் சூரிய கிரகணத்தை பார்த்தோம்.",
+      },
+    ],
+  },
+  economical: {
+    word: "economical",
+    tamil: "சிக்கன",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Giving good value in relation to cost",
+        tamil: "செலவுக்கு ஈடான மதிப்பைத் தரும்",
+        example: "This car is very economical.",
+        tamil_example: "இந்த கார் மிகவும் சிக்கனமானது.",
+      },
+    ],
+  },
+  ecosystem: {
+    word: "ecosystem",
+    tamil: "சூழல் மண்டலம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Biological community interacting with environment",
+        tamil: "சூழலுடன் தொடர்பு கொண்ட உயிரினங்கள்",
+        example: "Forests maintain delicate ecosystems.",
+        tamil_example: "காடுகள் மென்மையான சூழல் மண்டலங்களை பராமரிக்கின்றன.",
+      },
+    ],
+  },
+  edible: {
+    word: "edible",
+    tamil: "உண்ணத்தக்க",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Safe to be eaten",
+        tamil: "சாப்பிட பாதுகாப்பான",
+        example: "Not all mushrooms are edible.",
+        tamil_example: "அனைத்து காளான் வகைகளும் உண்ணத்தக்கவை அல்ல.",
+      },
+    ],
+  },
+  editor: {
+    word: "editor",
+    tamil: "தொகுப்பாளர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Person who prepares content for publication",
+        tamil: "வெளியீட்டிற்காக உள்ளடக்கத்தை தயாரிப்பவர்",
+        example: "The editor improved my article.",
+        tamil_example: "தொகுப்பாளர் எனது கட்டுரையை மேம்படுத்தினார்.",
+      },
+    ],
+  },
+  efficient: {
+    word: "efficient",
+    tamil: "திறமையான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Achieving maximum productivity with minimum waste",
+        tamil: "குறைந்த வீணடிப்புடன் அதிக உற்பத்தித்திறன்",
+        example: "The new system is more efficient.",
+        tamil_example: "புதிய அமைப்பு மிகவும் திறமையானது.",
+      },
+    ],
+  },
+  elaborate: {
+    word: "elaborate",
+    tamil: "விரிவாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Develop in detail",
+        tamil: "விவரமாக வளர்த்தெடு",
+        example: "Could you elaborate on your plan?",
+        tamil_example: "உங்கள் திட்டத்தை விரிவாக்க முடியுமா?",
+      },
+    ],
+  },
+  elastic: {
+    word: "elastic",
+    tamil: "நெகிழ்வான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Able to resume normal shape after stretching",
+        tamil: "நீட்டப்பட்ட பிறகு சாதாரண வடிவத்தை மீண்டும் பெறும்",
+        example: "Rubber bands are elastic.",
+        tamil_example: "ரப்பர் பாண்டுகள் நெகிழ்வானவை.",
+      },
+    ],
+  },
+  elderly: {
+    word: "elderly",
+    tamil: "முதிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Old or aging",
+        tamil: "வயதான",
+        example: "We should respect elderly people.",
+        tamil_example: "நாம் முதியவர்களை மதிக்க வேண்டும்.",
+      },
+    ],
+  },
+  elect: {
+    word: "elect",
+    tamil: "தேர்ந்தெடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Choose by voting",
+        tamil: "வாக்கெடுப்பின் மூலம் தேர்வு செய்",
+        example: "Citizens elect their representatives.",
+        tamil_example: "குடிமக்கள் தங்கள் பிரதிநிதிகளை தேர்ந்தெடுக்கிறார்கள்.",
+      },
+    ],
+  },
+  elegance: {
+    word: "elegance",
+    tamil: "நேர்த்தி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Graceful and stylish appearance",
+        tamil: "அழகிய மற்றும் நாகரீகமான தோற்றம்",
+        example: "The palace was built with great elegance.",
+        tamil_example: "அரண்மனை மிகுந்த நேர்த்தியுடன் கட்டப்பட்டது.",
+      },
+    ],
+  },
+  elementary: {
+    word: "elementary",
+    tamil: "அடிப்படை",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Relating to basic elements",
+        tamil: "அடிப்படை கூறுகள் தொடர்பான",
+        example: "She teaches elementary mathematics.",
+        tamil_example: "அவள் அடிப்படை கணிதம் கற்பிக்கிறாள்.",
+      },
+    ],
+  },
+  elevate: {
+    word: "elevate",
+    tamil: "உயர்த்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Raise to a higher position",
+        tamil: "உயர்ந்த நிலைக்கு உயர்த்து",
+        example: "Exercise elevates mood.",
+        tamil_example: "உடற்பயிற்சி மனநிலையை உயர்த்துகிறது.",
+      },
+    ],
+  },
+  eligible: {
+    word: "eligible",
+    tamil: "தகுதியான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Having the right qualifications",
+        tamil: "சரியான தகுதிகள் கொண்ட",
+        example: "Are you eligible to vote?",
+        tamil_example: "நீங்கள் வாக்களிக்க தகுதியானவரா?",
+      },
+    ],
+  },
+  eloquent: {
+    word: "eloquent",
+    tamil: "சொல்வன்மையான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Fluent or persuasive in speaking",
+        tamil: "சொல்லாற்றல் கொண்ட",
+        example: "The lawyer gave an eloquent speech.",
+        tamil_example: "வழக்கறிஞர் சொல்வன்மையான உரையாற்றினார்.",
+      },
+    ],
+  },
+  embark: {
+    word: "embark",
+    tamil: "தொடங்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Begin a course of action",
+        tamil: "ஒரு செயல் பாதையைத் தொடங்கு",
+        example: "We embarked on a new project.",
+        tamil_example: "நாங்கள் ஒரு புதிய திட்டத்தைத் தொடங்கினோம்.",
+      },
+    ],
+  },
+  embrace: {
+    word: "embrace",
+    tamil: "தழுவு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Hold closely in one's arms",
+        tamil: "கைகளால் நெருக்கமாக அணை",
+        example: "The mother embraced her child.",
+        tamil_example: "அம்மா தன் குழந்தையை தழுவினாள்.",
+      },
+    ],
+  },
+  emerge: {
+    word: "emerge",
+    tamil: "வெளிப்படு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Move out of or away from something",
+        tamil: "ஏதோவொன்றிலிருந்து வெளியேறு",
+        example: "The sun emerged from behind clouds.",
+        tamil_example: "சூரியன் மேகங்களுக்கு பின்னால் இருந்து வெளிப்பட்டது.",
+      },
+    ],
+  },
+  emit: {
+    word: "emit",
+    tamil: "வெளியிடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Produce and discharge something",
+        tamil: "ஏதாவது ஒன்றை உற்பத்தி செய்து வெளியேற்று",
+        example: "The machine emits loud noises.",
+        tamil_example: "இயந்திரம் சத்தமான சப்தங்களை வெளியிடுகிறது.",
+      },
+    ],
+  },
+  emotion: {
+    word: "emotion",
+    tamil: "உணர்ச்சி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Strong feeling deriving from circumstances",
+        tamil: "சூழ்நிலைகளிலிருந்து பெறப்படும் வலுவான உணர்வு",
+        example: "Love is a powerful emotion.",
+        tamil_example: "காதல் ஒரு சக்திவாய்ந்த உணர்ச்சி.",
+      },
+    ],
+  },
+  empathy: {
+    word: "empathy",
+    tamil: "பச்சாத்தாபம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Ability to understand others' feelings",
+        tamil: "பிறருடைய உணர்வுகளை புரிந்துகொள்ளும் திறன்",
+        example: "Doctors need empathy for patients.",
+        tamil_example: "மருத்துவர்களுக்கு நோயாளிகளுக்கு பச்சாத்தாபம் தேவை.",
+      },
+    ],
+  },
+  emperor: {
+    word: "emperor",
+    tamil: "பேரரசர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Ruler of an empire",
+        tamil: "பேரரசை ஆள்பவர்",
+        example: "The emperor wore a golden crown.",
+        tamil_example: "பேரரசர் தங்க கிரீடம் அணிந்திருந்தார்.",
+      },
+    ],
+  },
+  emphasis: {
+    word: "emphasis",
+    tamil: "அழுத்தம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Special importance given to something",
+        tamil: "சிறப்பு முக்கியத்துவம் கொடுத்தல்",
+        example: "Our school puts emphasis on discipline.",
+        tamil_example: "எங்கள் பள்ளி ஒழுக்கத்திற்கு அழுத்தம் கொடுக்கிறது.",
+      },
+    ],
+  },
+  empirical: {
+    word: "empirical",
+    tamil: "அனுபவ அடிப்படையிலான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Based on observation rather than theory",
+        tamil: "கோட்பாட்டை விட கண்கானிப்பை அடிப்படையாகக் கொண்டது",
+        example: "Scientists use empirical evidence.",
+        tamil_example: "விஞ்ஞானிகள் அனுபவ ஆதாரங்களைப் பயன்படுத்துகிறார்கள்.",
+      },
+    ],
+  },
+  enchant: {
+    word: "enchant",
+    tamil: "மந்திரித்தல்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Fill with delight",
+        tamil: "மகிழ்ச்சியால் நிரப்பு",
+        example: "The music enchanted the audience.",
+        tamil_example: "இசை பார்வையாளர்களை மந்திரித்தது.",
+      },
+    ],
+  },
+  encourage: {
+    word: "encourage",
+    tamil: "ஊக்குவி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Give support or confidence",
+        tamil: "ஆதரவு அல்லது நம்பிக்கை கொடு",
+        example: "Teachers should encourage students.",
+        tamil_example: "ஆசிரியர்கள் மாணவர்களை ஊக்குவிக்க வேண்டும்.",
+      },
+    ],
+  },
+  encyclopedia: {
+    word: "encyclopedia",
+    tamil: "கலைக்களஞ்சியம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Reference work containing information on many subjects",
+        tamil: "பல தலைப்புகளில் தகவல்களைக் கொண்ட குறிப்பு நூல்",
+        example: "I found the information in an encyclopedia.",
+        tamil_example: "நான் ஒரு கலைக்களஞ்சியத்தில் தகவலைக் கண்டேன்.",
+      },
+    ],
+  },
+  endeavor: {
+    word: "endeavor",
+    tamil: "முயற்சி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A sincere attempt",
+        tamil: "உண்மையான முயற்சி",
+        example: "His endeavor to help was appreciated.",
+        tamil_example: "உதவும் அவரது முயற்சி பாராட்டப்பட்டது.",
+      },
+    ],
+  },
+  endorse: {
+    word: "endorse",
+    tamil: "ஒப்புதல் அளி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Declare approval or support",
+        tamil: "ஒப்புதல் அல்லது ஆதரவை அறிவி",
+        example: "The celebrity endorsed the product.",
+        tamil_example: "பிரபலம் தயாரிப்புக்கு ஒப்புதல் அளித்தார்.",
+      },
+    ],
+  },
+  endurance: {
+    word: "endurance",
+    tamil: "சகிப்புத்தன்மை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Ability to withstand hardship",
+        tamil: "கடினமான நிலைகளை தாங்கும் திறன்",
+        example: "Marathon runners need endurance.",
+        tamil_example: "மாரத்தான் ஓட்டக்காரர்களுக்கு சகிப்புத்தன்மை தேவை.",
+      },
+    ],
+  },
+  energetic: {
+    word: "energetic",
+    tamil: "ஆற்றல் மிக்க",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Showing great activity or vitality",
+        tamil: "பெரும் செயல்பாடு அல்லது உயிர்ப்பைக் காட்டும்",
+        example: "Children are naturally energetic.",
+        tamil_example: "குழந்தைகள் இயல்பாகவே ஆற்றல் மிக்கவர்கள்.",
+      },
+    ],
+  },
+  enforce: {
+    word: "enforce",
+    tamil: "சட்டத்தை நடைமுறைப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Compel observance of laws/rules",
+        tamil: "சட்டங்கள்/விதிகளின் கடைப்பிடிப்பை நிர்ப்பந்திக்கவும்",
+        example: "Police enforce traffic laws.",
+        tamil_example:
+          "போலீஸார் போக்குவரத்து விதிகளை நடைமுறைப்படுத்துகிறார்கள்.",
+      },
+    ],
+  },
+  engage: {
+    word: "engage",
+    tamil: "ஈடுபடுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Occupy or attract attention",
+        tamil: "கவனத்தை ஈர்க்கவும் அல்லது ஆக்கிரமிக்கவும்",
+        example: "The teacher engaged students with stories.",
+        tamil_example: "ஆசிரியர் கதைகளால் மாணவர்களை ஈடுபடுத்தினார்.",
+      },
+    ],
+  },
+  engrave: {
+    word: "engrave",
+    tamil: "செதுக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Cut or carve text/design on hard surface",
+        tamil:
+          "கடினமான மேற்பரப்பில் உரை/வடிவமைப்பை வெட்டவும் அல்லது செதுக்கவும்",
+        example: "They engraved names on the trophy.",
+        tamil_example: "அவர்கள் கோப்பையில் பெயர்களை செதுக்கினர்.",
+      },
+    ],
+  },
+  enlighten: {
+    word: "enlighten",
+    tamil: "அறிவூட்டு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Give intellectual or spiritual insight",
+        tamil: "அறிவு அல்லது ஆன்மீக பார்வையை கொடு",
+        example: "The guru enlightened his disciples.",
+        tamil_example: "குரு தனது சீடர்களுக்கு அறிவூட்டினார்.",
+      },
+    ],
+  },
+  enormity: {
+    word: "enormity",
+    tamil: "மகத்தான தன்மை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Great size or seriousness",
+        tamil: "பெரிய அளவு அல்லது தீவிரம்",
+        example: "The enormity of the task overwhelmed us.",
+        tamil_example: "பணியின் மகத்தான தன்மை நம்மை மூழ்கடித்தது.",
+      },
+    ],
+  },
+  enrich: {
+    word: "enrich",
+    tamil: "செழுமைப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Improve quality or value",
+        tamil: "தரம் அல்லது மதிப்பை மேம்படுத்து",
+        example: "Reading enriches the mind.",
+        tamil_example: "வாசிப்பு மனதை செழுமைப்படுத்துகிறது.",
+      },
+    ],
+  },
+  enroll: {
+    word: "enroll",
+    tamil: "பதிவு செய்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Officially register as participant",
+        tamil: "பங்கேற்பாளராக அதிகாரப்பூர்வமாக பதிவு செய்யவும்",
+        example: "I enrolled in a cooking class.",
+        tamil_example: "நான் ஒரு சமையல் வகுப்பில் பதிவு செய்தேன்.",
+      },
+    ],
+  },
+  ensue: {
+    word: "ensue",
+    tamil: "தொடர்ந்து நட",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Happen afterward as result",
+        tamil: "விளைவாக பின்னர் நடக்கும்",
+        example: "Chaos ensued after the announcement.",
+        tamil_example: "அறிவிப்புக்குப் பிறகு குழப்பம் தொடர்ந்தது.",
+      },
+    ],
+  },
+  entail: {
+    word: "entail",
+    tamil: "தேவைப்படு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Involve as necessary part",
+        tamil: "தேவையான பகுதியாக உள்ளடக்கு",
+        example: "The job entails long hours.",
+        tamil_example: "வேலை நீண்ட நேரம் தேவைப்படுகிறது.",
+      },
+    ],
+  },
+  entice: {
+    word: "entice",
+    tamil: "ஆசை வை",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Attract or tempt by offering pleasure",
+        tamil: "மகிழ்ச்சியை வழங்குவதன் மூலம் ஈர்க்கவும் அல்லது சோதிக்கவும்",
+        example: "The smell of food enticed the hungry child.",
+        tamil_example: "உணவின் வாசனை பசியுடைய குழந்தையை ஆசை வைத்தது.",
+      },
+    ],
+  },
+  entirety: {
+    word: "entirety",
+    tamil: "முழுமை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The whole of something",
+        tamil: "ஒன்றின் முழுவதும்",
+        example: "We must consider the problem in its entirety.",
+        tamil_example: "பிரச்சினையை அதன் முழுமையாக கருத்தில் கொள்ள வேண்டும்.",
+      },
+    ],
+  },
+  entourage: {
+    word: "entourage",
+    tamil: "தொடர்புடையவர்கள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Group of people accompanying an important person",
+        tamil: "ஒரு முக்கியமான நபருடன் செல்லும் மக்கள் குழு",
+        example: "The minister arrived with his entourage.",
+        tamil_example: "மந்திரி தனது தொடர்புடையவர்களுடன் வந்தார்.",
+      },
+    ],
+  },
+  entrust: {
+    word: "entrust",
+    tamil: "ஒப்படை",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Assign responsibility to someone",
+        tamil: "யாருக்காவது பொறுப்பை ஒப்படைக்கவும்",
+        example: "I entrusted my pet to my neighbor.",
+        tamil_example:
+          "நான் என் செல்லப்பிராணியை என் அண்டை வீட்டாரிடம் ஒப்படைத்தேன்.",
+      },
+    ],
+  },
+  enumerate: {
+    word: "enumerate",
+    tamil: "எண்ணிடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Mention items one by one",
+        tamil: "ஒவ்வொன்றாக உருப்படிகளைக் குறிப்பிடவும்",
+        example: "She enumerated the reasons for her decision.",
+        tamil_example: "அவர் தனது முடிவுக்கான காரணங்களை எண்ணிட்டார்.",
+      },
+    ],
+  },
+  envision: {
+    word: "envision",
+    tamil: "கற்பனை செய்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Imagine as future possibility",
+        tamil: "எதிர்கால சாத்தியமாக கற்பனை செய்யுங்கள்",
+        example: "He envisioned a world without poverty.",
+        tamil_example: "அவர் வறுமையில்லாத உலகை கற்பனை செய்தார்.",
+      },
+    ],
+  },
+  epic: {
+    word: "epic",
+    tamil: "காவியம்",
+    type: "noun/adjective",
+    meanings: [
+      {
+        meaning: "Long poem about heroic deeds",
+        tamil: "வீர செயல்களைப் பற்றிய நீண்ட கவிதை",
+        example: "The Mahabharata is an Indian epic.",
+        tamil_example: "மகாபாரதம் ஒரு இந்திய காவியம்.",
+      },
+      {
+        meaning: "Grand in scale",
+        tamil: "அளவில் பெரியது",
+        example: "The construction project was epic.",
+        tamil_example: "கட்டுமான திட்டம் காவியமானது.",
+      },
+    ],
+  },
+  epidemic: {
+    word: "epidemic",
+    tamil: "தொற்றுநோய்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Widespread occurrence of disease",
+        tamil: "நோயின் பரவலான நிகழ்வு",
+        example: "The city faced a flu epidemic.",
+        tamil_example: "நகரம் ஒரு காய்ச்சல் தொற்றுநோயை எதிர்கொண்டது.",
+      },
+    ],
+  },
+  epilogue: {
+    word: "epilogue",
+    tamil: "முடிவுரை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Section at the end of a book",
+        tamil: "ஒரு புத்தகத்தின் இறுதியில் உள்ள பகுதி",
+        example: "The epilogue summarized the characters' futures.",
+        tamil_example:
+          "முடிவுரை கதாபாத்திரங்களின் எதிர்காலத்தை சுருக்கமாகக் கூறியது.",
+      },
+    ],
+  },
+  epitome: {
+    word: "epitome",
+    tamil: "சாராம்சம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Perfect example of something",
+        tamil: "ஒன்றின் சரியான உதாரணம்",
+        example: "She is the epitome of kindness.",
+        tamil_example: "அவள் கனிவின் சாராம்சம்.",
+      },
+    ],
+  },
+  equilibrium: {
+    word: "equilibrium",
+    tamil: "சமநிலை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "State of physical balance",
+        tamil: "உடல் சமநிலையின் நிலை",
+        example: "The gymnast maintained perfect equilibrium.",
+        tamil_example: "ஜிம்னாஸ்ட் சரியான சமநிலையை பராமரித்தார்.",
+      },
+    ],
+  },
+  equitable: {
+    word: "equitable",
+    tamil: "நியாயமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Fair and impartial",
+        tamil: "நியாயமான மற்றும் நடுநிலையான",
+        example: "We need an equitable distribution of resources.",
+        tamil_example: "எங்களுக்கு வளங்களின் நியாயமான பகிர்வு தேவை.",
+      },
+    ],
+  },
+  equivalent: {
+    word: "equivalent",
+    tamil: "சமமான",
+    type: "adjective/noun",
+    meanings: [
+      {
+        meaning: "Equal in value or meaning",
+        tamil: "மதிப்பு அல்லது பொருளில் சமம்",
+        example: "One dollar is roughly equivalent to 80 rupees.",
+        tamil_example: "ஒரு டாலர் தோராயமாக 80 ரூபாய்க்கு சமம்.",
+      },
+    ],
+  },
+  eradicate: {
+    word: "eradicate",
+    tamil: "அழி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Destroy completely",
+        tamil: "முற்றிலுமாக அழிக்கவும்",
+        example: "We must eradicate poverty.",
+        tamil_example: "நாம் வறுமையை அழிக்க வேண்டும்.",
+      },
+    ],
+  },
+  erratic: {
+    word: "erratic",
+    tamil: "ஒழுங்கற்ற",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Unpredictable or irregular",
+        tamil: "கணிக்க முடியாத அல்லது ஒழுங்கற்ற",
+        example: "His behavior became erratic.",
+        tamil_example: "அவரது நடத்தை ஒழுங்கற்றதாக மாறியது.",
+      },
+    ],
+  },
+  erupt: {
+    word: "erupt",
+    tamil: "வெடி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Break out suddenly",
+        tamil: "திடீரென வெடித்தல்",
+        example: "Violence erupted after the protest.",
+        tamil_example: "ஆர்ப்பாட்டத்திற்குப் பிறகு வன்முறை வெடித்தது.",
+      },
+    ],
+  },
+  escalate: {
+    word: "escalate",
+    tamil: "படிப்படியாக உயர்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Increase rapidly",
+        tamil: "விரைவாக அதிகரிக்கவும்",
+        example: "The conflict escalated into war.",
+        tamil_example: "மோதல் போராக படிப்படியாக உயர்ந்தது.",
+      },
+    ],
+  },
+  essence: {
+    word: "essence",
+    tamil: "சாரம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Fundamental nature of something",
+        tamil: "ஒன்றின் அடிப்படை தன்மை",
+        example: "The essence of his argument was clear.",
+        tamil_example: "அவரது வாதத்தின் சாரம் தெளிவாக இருந்தது.",
+      },
+    ],
+  },
+  eternity: {
+    word: "eternity",
+    tamil: "நித்தியம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Infinite or unending time",
+        tamil: "முடிவில்லா அல்லது முடிவில்லாத நேரம்",
+        example: "The stars seem to last for eternity.",
+        tamil_example: "நட்சத்திரங்கள் நித்தியம் நீடிப்பதாகத் தெரிகிறது.",
+      },
+    ],
+  },
+  etiquette: {
+    word: "etiquette",
+    tamil: "ஒழுங்குமுறை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Formal rules of behavior",
+        tamil: "நடத்தையின் முறையான விதிகள்",
+        example: "Table etiquette is important at formal dinners.",
+        tamil_example:
+          "முறையான இரவு விருந்துகளில் மேசை ஒழுங்குமுறை முக்கியமானது.",
+      },
+    ],
+  },
+  eccentric: {
+    word: "eccentric",
+    tamil: "விசித்திரமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Unconventional or slightly strange",
+        tamil: "வழக்கத்திற்கு மாறான அல்லது சற்று விசித்திரமான",
+        example: "The eccentric professor wore mismatched shoes.",
+        tamil_example:
+          "விசித்திரமான பேராசிரியர் பொருந்தாத காலணிகளை அணிந்திருந்தார்.",
+      },
+    ],
+  },
+  ecstasy: {
+    word: "ecstasy",
+    tamil: "பேரின்பம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Overwhelming happiness",
+        tamil: "மிகுந்த மகிழ்ச்சி",
+        example: "She was in ecstasy when she won the award.",
+        tamil_example: "விருது வென்றபோது அவள் பேரின்பத்தில் இருந்தாள்.",
+      },
+    ],
+  },
+  edifice: {
+    word: "edifice",
+    tamil: "பெருங்கட்டடம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Large, impressive building",
+        tamil: "பெரிய, ஈர்க்கக்கூடிய கட்டிடம்",
+        example: "The ancient edifice stood for centuries.",
+        tamil_example: "புராதன பெருங்கட்டடம் நூற்றாண்டுகளாக நின்றது.",
+      },
+    ],
+  },
+  eerie: {
+    word: "eerie",
+    tamil: "பயங்கரமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Strange and frightening",
+        tamil: "விசித்திரமான மற்றும் பயமுறுத்தும்",
+        example: "The abandoned house had an eerie silence.",
+        tamil_example: "கைவிடப்பட்ட வீட்டில் பயங்கரமான அமைதி நிலவியது.",
+      },
+    ],
+  },
+  effervescent: {
+    word: "effervescent",
+    tamil: "குமிழியிடும்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Bubbly or vivacious",
+        tamil: "குமிழ்கள் உள்ள அல்லது உயிரோட்டமான",
+        example: "Her effervescent personality lit up the room.",
+        tamil_example: "அவளது குமிழியிடும் ஆளுமை அறையை ஒளிர வைத்தது.",
+      },
+    ],
+  },
+  egregious: {
+    word: "egregious",
+    tamil: "கடுமையான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Outstandingly bad",
+        tamil: "குறிப்பாக மோசமான",
+        example: "It was an egregious error in judgment.",
+        tamil_example: "இது தீர்ப்பில் ஒரு கடுமையான தவறு.",
+      },
+    ],
+  },
+  elation: {
+    word: "elation",
+    tamil: "உற்சாகம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Great happiness",
+        tamil: "பெரும் மகிழ்ச்சி",
+        example: "He felt elation at his success.",
+        tamil_example: "தனது வெற்றியில் அவர் உற்சாகம் அடைந்தார்.",
+      },
+    ],
+  },
+  ellipsis: {
+    word: "ellipsis",
+    tamil: "முப்புள்ளி",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Omission of words (...)",
+        tamil: "சொற்களை விடுபடுத்துதல் (...)",
+        example: "Use an ellipsis to show a pause.",
+        tamil_example: "ஒரு இடைவெளியைக் காட்ட முப்புள்ளிகளைப் பயன்படுத்தவும்.",
+      },
+    ],
+  },
+  eloquence: {
+    word: "eloquence",
+    tamil: "சொல்வன்மை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Fluent speaking ability",
+        tamil: "சரளமாக பேசும் திறன்",
+        example: "The lawyer spoke with great eloquence.",
+        tamil_example: "வழக்கறிஞர் மிகுந்த சொல்வன்மையுடன் பேசினார்.",
+      },
+    ],
+  },
+  emaciated: {
+    word: "emaciated",
+    tamil: "உடல் மெலிந்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Abnormally thin from starvation",
+        tamil: "பட்டினியால் அசாதாரணமாக மெலிந்த",
+        example: "The emaciated child needed food urgently.",
+        tamil_example: "உடல் மெலிந்த குழந்தைக்கு உணவு அவசியமாக தேவைப்பட்டது.",
+      },
+    ],
+  },
+  embellish: {
+    word: "embellish",
+    tamil: "அலங்கரி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Make more attractive with decorations",
+        tamil: "அலங்காரங்களுடன் அழகாக்கு",
+        example: "She embellished the dress with beads.",
+        tamil_example: "அவள் ஆடையை மணிகளால் அலங்கரித்தாள்.",
+      },
+    ],
+  },
+  emblem: {
+    word: "emblem",
+    tamil: "சின்னம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Symbol representing something",
+        tamil: "ஒன்றைக் குறிக்கும் சின்னம்",
+        example: "The dove is an emblem of peace.",
+        tamil_example: "புறா சமாதானத்தின் சின்னம்.",
+      },
+    ],
+  },
+  embryo: {
+    word: "embryo",
+    tamil: "கரு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Early stage of developing organism",
+        tamil: "வளரும் உயிரினத்தின் ஆரம்ப நிலை",
+        example: "The human embryo develops rapidly.",
+        tamil_example: "மனித கரு விரைவாக வளர்ச்சியடைகிறது.",
+      },
+    ],
+  },
+  emphatic: {
+    word: "emphatic",
+    tamil: "வலியுறுத்தல்",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Expressed with emphasis",
+        tamil: "வலியுறுத்தி வெளிப்படுத்தப்படுகிறது",
+        example: "She gave an emphatic 'no' as answer.",
+        tamil_example: "அவள் ஒரு வலியுறுத்தல் 'இல்லை' என்று பதிலளித்தாள்.",
+      },
+    ],
+  },
+  empirical: {
+    word: "empirical",
+    tamil: "அனுபவப்பூர்வமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Based on observation rather than theory",
+        tamil: "கோட்பாட்டை விட கண்கானிப்பை அடிப்படையாகக் கொண்டது",
+        example: "Scientists rely on empirical evidence.",
+        tamil_example: "விஞ்ஞானிகள் அனுபவப்பூர்வமான ஆதாரங்களை நம்புகிறார்கள்.",
+      },
+    ],
+  },
+  emulate: {
+    word: "emulate",
+    tamil: "பின்பற்று",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Match or surpass by imitation",
+        tamil: "பின்பற்றி பொருத்த அல்லது மீறு",
+        example: "Young athletes emulate their heroes.",
+        tamil_example:
+          "இளம் விளையாட்டு வீரர்கள் தங்கள் வீரர்களை பின்பற்றுகிறார்கள்.",
+      },
+    ],
+  },
+  enact: {
+    word: "enact",
+    tamil: "சட்டமாக்கு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Make into law",
+        tamil: "சட்டமாக மாற்று",
+        example: "The government enacted new tax laws.",
+        tamil_example: "அரசாங்கம் புதிய வரி சட்டங்களை சட்டமாக்கியது.",
+      },
+    ],
+  },
+  enchantment: {
+    word: "enchantment",
+    tamil: "மந்திரம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Magical spell or great delight",
+        tamil: "மாய மந்திரம் அல்லது பெரும் மகிழ்ச்சி",
+        example: "The forest had an air of enchantment.",
+        tamil_example: "காட்டில் மந்திரத்தின் ஒரு சூழல் இருந்தது.",
+      },
+    ],
+  },
+  encroach: {
+    word: "encroach",
+    tamil: "குறுக்கிடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Intrude on someone's territory",
+        tamil: "ஒருவரின் பிரதேசத்தில் தலையிடு",
+        example: "The construction encroached on park land.",
+        tamil_example: "கட்டுமானம் பூங்கா நிலத்தில் குறுக்கிட்டது.",
+      },
+    ],
+  },
+  endemic: {
+    word: "endemic",
+    tamil: "ஒரு பகுதிக்குரிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Native to a particular area",
+        tamil: "ஒரு குறிப்பிட்ட பகுதிக்கு உரியது",
+        example: "This plant is endemic to Madagascar.",
+        tamil_example: "இந்த தாவரம் மடகாஸ்கருக்கு உரியது.",
+      },
+    ],
+  },
+  enigma: {
+    word: "enigma",
+    tamil: "புதிர்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Mysterious or puzzling person/thing",
+        tamil: "மர்மமான அல்லது குழப்பமான நபர்/விஷயம்",
+        example: "His motives remain an enigma.",
+        tamil_example: "அவரது நோக்கங்கள் ஒரு புதிராகவே உள்ளன.",
+      },
+    ],
+  },
+  enmity: {
+    word: "enmity",
+    tamil: "பகைமை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "State of being actively opposed",
+        tamil: "செயலில் எதிர்க்கும் நிலை",
+        example: "Years of enmity divided the families.",
+        tamil_example: "பல ஆண்டுகால பகைமை குடும்பங்களை பிரித்தது.",
+      },
+    ],
+  },
+  enrapture: {
+    word: "enrapture",
+    tamil: "மகிழ்ச்சியில் ஆழ்த்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Fill with great delight",
+        tamil: "பெரும் மகிழ்ச்சியால் நிரப்பு",
+        example: "The music enraptured the audience.",
+        tamil_example: "இசை பார்வையாளர்களை மகிழ்ச்சியில் ஆழ்த்தியது.",
+      },
+    ],
+  },
+  enshrine: {
+    word: "enshrine",
+    tamil: "புனிதப்படுத்து",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Preserve as sacred",
+        tamil: "புனிதமாக பாதுகாக்கவும்",
+        example: "The constitution enshrines our rights.",
+        tamil_example: "அரசியலமைப்பு நமது உரிமைகளை புனிதப்படுத்துகிறது.",
+      },
+    ],
+  },
+  enthrall: {
+    word: "enthrall",
+    tamil: "கவர்ச்சியூட்டு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Capture fascinated attention",
+        tamil: "கவர்ச்சிகரமான கவனத்தை ஈர்க்கவும்",
+        example: "The story enthralled the children.",
+        tamil_example: "கதை குழந்தைகளை கவர்ச்சியூட்டியது.",
+      },
+    ],
+  },
+  entity: {
+    word: "entity",
+    tamil: "உள்ளமைவு",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Distinct, independent existence",
+        tamil: "தனித்துவமான, சுயாதீனமான இருப்பு",
+        example: "The company became a separate legal entity.",
+        tamil_example: "நிறுவனம் ஒரு தனி சட்டப்பூர்வமான உள்ளமைவாக மாறியது.",
+      },
+    ],
+  },
+  entomology: {
+    word: "entomology",
+    tamil: "பூச்சியியல்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Study of insects",
+        tamil: "பூச்சிகளைப் பற்றிய ஆய்வு",
+        example: "She pursued a degree in entomology.",
+        tamil_example: "அவள் பூச்சியியலில் பட்டம் பெற்றாள்.",
+      },
+    ],
+  },
+  enunciate: {
+    word: "enunciate",
+    tamil: "தெளிவாக உச்சரி",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "Pronounce words clearly",
+        tamil: "சொற்களை தெளிவாக உச்சரிக்கவும்",
+        example: "Actors must enunciate properly on stage.",
+        tamil_example: "நடிகர்கள் மேடையில் சரியாக தெளிவாக உச்சரிக்க வேண்டும்.",
+      },
+    ],
+  },
+  ephemeral: {
+    word: "ephemeral",
+    tamil: "குறுங்கால",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Lasting for very short time",
+        tamil: "மிகக் குறுகிய நேரம் நீடிக்கும்",
+        example: "Fame can be ephemeral in show business.",
+        tamil_example: "நிகழ்ச்சி துறையில் புகழ் குறுங்காலமானதாக இருக்கலாம்.",
+      },
+    ],
+  },
 };
 
 let currentPage = 1;
