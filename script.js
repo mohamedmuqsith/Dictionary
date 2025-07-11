@@ -88,7 +88,7 @@ const dictionary = {
   },
   able: {
     word: "able",
-    tamil: "திறன் வாய்ந்த",
+    tamil: "முடியும்",
     type: "adjective",
     meanings: [
       {
