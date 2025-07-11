@@ -88,7 +88,7 @@ const dictionary = {
   },
   able: {
     word: "able",
-    tamil: "முடியும்",
+    tamil: "திறன் வாய்ந்த/முடியும்",
     type: "adjective",
     meanings: [
       {
@@ -97,8 +97,27 @@ const dictionary = {
         example: "He is able to swim.",
         tamil_example: "அவர் நீந்தும் திறன் கொண்டவர்.",
       },
+      {
+        meaning: "Having the skill to do something",
+        tamil: "ஏதாவது செய்யும் திறமை கொண்டவர்",
+        example: "She is able to speak five languages.",
+        tamil_example: "அவள் ஐந்து மொழிகள் பேசும் திறன் கொண்டவர்.",
+      },
+      {
+        meaning: "Having the means or resources to do something",
+        tamil: "ஏதாவது செய்ய தேவையான வசதி/வாய்ப்பு கொண்டவர்",
+        example: "We are able to help you.",
+        tamil_example: "நாங்கள் உங்களுக்கு உதவ முடியும்.",
+      },
+      {
+        meaning: "Capable of accomplishing something successfully",
+        tamil: "ஏதாவது ஒரு காரியத்தை வெற்றிகரமாக செய்யும் திறன்",
+        example: "They were able to fix the car.",
+        tamil_example: "அவர்கள் கார் சரிசெய்ய முடிந்தது.",
+      },
     ],
   },
+
   about: {
     word: "about",
     tamil: "பற்றி",
