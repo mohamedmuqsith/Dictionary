@@ -1,94 +1,144 @@
- body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #2c3e50;
-      color: white;
-      padding: 20px 10px;
-      text-align: center;
-    }
-    .container {
-      max-width: 1000px;
-      margin: auto;
-      padding: 20px;
-    }
-    .search-container {
-      display: flex;
-      margin-bottom: 20px;
-    }
-    #search-input {
-      flex: 1;
-      padding: 10px;
-      font-size: 16px;
-    }
-    #search-btn {
-      padding: 10px 20px;
-      background: #3498db;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    .dictionary-container {
-      display: flex;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-    .word-list {
-      flex: 1;
-      max-height: 400px;
-      overflow-y: auto;
-      background: white;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    .word-list li {
-      padding: 8px;
-      border-bottom: 1px solid #eee;
-      cursor: pointer;
-    }
-    .word-list li:hover {
-      background: #eee;
-    }
-    .word-details {
-      flex: 2;
-      background: white;
-      padding: 20px;
-      border-radius: 5px;
-      min-height: 200px;
-    }
-    .pagination {
-      margin: 20px 0;
-      text-align: center;
-    }
-    .pagination button {
-      padding: 8px 15px;
-      margin: 0 5px;
-      background: #3498db;
-      color: white;
-      border: none;
-      cursor: pointer;
-    }
-    .alphabet-nav {
-      margin: 10px 0;
-      text-align: center;
-    }
-    .alphabet-nav button {
-      margin: 2px;
-      padding: 5px 8px;
-      cursor: pointer;
-      border: 1px solid #ccc;
-      background: #fff;
-    }
-    .download-btn {
-      display: block;
-      margin: 20px auto;
-      text-align: center;
-      background: #27ae60;
-      color: white;
-      padding: 10px 20px;
-      text-decoration: none;
-      border-radius: 5px;
-    }
+
+      body {
+        font-family: Arial, sans-serif;
+        background: #f4f4f4;
+            margin: 0;
+        padding: 0;
+      }
+      header {
+        background: #2c3e50;
+        color: white;
+        padding: 20px 10px;
+        text-align: center;
+      }
+      .container {
+        max-width: 1000px;
+        margin: auto;
+        padding: 20px;
+      }
+      .search-container {
+        display: flex;
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      #search-input {
+        flex: 1;
+        min-width: 200px;
+        padding: 10px;
+        font-size: 16px;
+      }
+      #search-btn {
+        padding: 10px 20px;
+        background: #3498db;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      .search-stats {
+        width: 100%;
+        padding: 10px;
+        background: #f8f8f8;
+        border-radius: 5px;
+        font-size: 14px;
+      }
+      .dictionary-container {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+      }
+      .word-list {
+        flex: 1;
+        min-width: 300px;
+        max-height: 400px;
+        overflow-y: auto;
+        background: white;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 0;
+        list-style: none;
+      }
+      .word-list li {
+        padding: 8px;
+        border-bottom: 1px solid #eee;
+        cursor: pointer;
+      }
+      .word-list li:hover {
+        background: #eee;
+      }
+      .word-details {
+        flex: 2;
+        min-width: 300px;
+        background: white;
+        padding: 20px;
+        border-radius: 5px;
+        min-height: 200px;
+      }
+      .pagination {
+        margin: 20px 0;
+        text-align: center;
+        width: 100%;
+      }
+      .pagination button {
+        padding: 8px 15px;
+        margin: 0 5px;
+        background: #3498db;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      .pagination button:disabled {
+        background: #95a5a6;
+        cursor: not-allowed;
+      }
+      .alphabet-nav {
+        margin: 10px 0;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 5px;
+      }
+      .alphabet-nav button {
+        padding: 5px 10px;
+        cursor: pointer;
+        border: 1px solid #ccc;
+        background: #fff;
+        min-width: 30px;
+      }
+      .alphabet-nav button:hover {
+        background: #3498db;
+        color: white;
+      }
+      .download-btn {
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        background: #27ae60;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 5px;
+        max-width: 250px;
+      }
+
+      /* Mobile responsiveness */
+      @media (max-width: 768px) {
+        .search-container {
+          flex-direction: column;
+        }
+        #search-input,
+        #search-btn {
+          width: 100%;
+        }
+        .word-list,
+        .word-details {
+          min-width: 100%;
+        }
+        .alphabet-nav button {
+          padding: 5px 8px;
+          min-width: 25px;
+          font-size: 12px;
+        }
+      }
+    

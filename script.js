@@ -148,8 +148,36 @@ const dictionary = {
         example: "The picture hangs above the fireplace.",
         tamil_example: "படம் அடுப்பங்கரைக்கு மேலே தொங்குகிறது.",
       },
+      {
+        meaning: "More than a particular level or amount",
+        tamil: "ஒரு குறிப்பிட்ட அளவுக்கு மேல்",
+        example: "The temperature is above 40 degrees.",
+        tamil_example: "வெப்பநிலை 40 டிகிரிக்கு மேல் உள்ளது.",
+      },
+      {
+        meaning: "Superior in rank or status",
+        tamil: "திறமையிலும் நிலைமையிலும் மேலானது",
+        example: "No one is above the law.",
+        tamil_example: "யாரும் சட்டத்திற்கு மேல் இல்லை.",
+      },
+      {
+        meaning: "Earlier in the same text",
+        tamil: "மேலே குறிப்பிடப்பட்ட",
+        example: "Please refer to the notes above.",
+        tamil_example: "மேலே உள்ள குறிப்புகளை பார்க்கவும்.",
+      },
+      {
+        meaning:
+          "A paragraph showing how 'above' is used in multiple real-life contexts.",
+        tamil:
+          "வாழ்க்கையில் 'above' எப்படி பலவகையான சூழ்நிலைகளில் பயன்படுகிறது என்பதைக் கூறும் ஒரு பதிவுரை.",
+        example: `In a quiet village, there was a temple on a small hill. Above the temple gate, a bell hung that rang with the wind. People believed that whoever heard the bell would receive blessings from above. On summer days, the temperature rose above 40 degrees, but devotees still climbed the hill. An old man once said, “No one is above kindness and faith.” A board on the wall read, “Please read the instructions above before entering.” Everyone respected what was written, as the words came from those above in wisdom and age.
+`,
+        tamil_example: `ஒரு அமைதியான கிராமத்தில், ஒரு சிறிய மலையின் மேல் கோவில் ஒன்று இருந்தது. கோவிலின் வாயிலுக்கு மேலே, காற்றில் ஒலிக்கும் ஒரு மணி தொங்கிக் கிடந்தது. அந்த மணியின் ஒலியை கேட்டவர்கள் மேலே இருந்து ஆசீர்வாதம் பெறுவார்கள் என்று மக்கள் நம்பினர். கோடை நாட்களில், வெப்பநிலை 40 டிகிரிக்கு மேல் சென்றாலும், பக்தர்கள் கோவிலுக்கு ஏறினர். ஒரு வயதானவர் சொன்னார்: "இரக்கம் மற்றும் நம்பிக்கைக்கு யாரும் மேலே இல்லை." சுவரில் ஒரு பலகை இருந்தது: "உள் நுழைவதற்கு முன் மேலே உள்ள அறிவுறுத்தல்களை படிக்கவும்." அந்த வார்த்தைகள் அறிவிலும் வயதிலும் மேலே உள்ளவர்கள் சொன்னவை என்பதால், அனைவரும் அதை மதித்தார்கள்.`,
+      },
     ],
   },
+
   abroad: {
     word: "abroad",
     tamil: "வெளிநாடு",
@@ -1140,14 +1168,26 @@ const dictionary = {
   },
   also: {
     word: "also",
-    tamil: "மேலும்",
+    tamil: "மேலும் / கூட",
     type: "adverb",
     meanings: [
       {
-        meaning: "In addition",
-        tamil: "கூடுதலாக",
-        example: "She speaks French and also Spanish.",
-        tamil_example: "அவள் பிரஞ்சு மற்றும் மேலும் ஸ்பானிஷ் பேசுகிறாள்.",
+        meaning: "In addition; too; as well",
+        tamil: "மேலும்; கூட",
+        example: "She likes coffee and also tea.",
+        tamil_example: "அவளுக்கு காபி மற்றும் கூட தேநீர் பிடிக்கும்.",
+      },
+      {
+        meaning: "Used to add information",
+        tamil: "தகவல் சேர்க்க பயன்படும்",
+        example: "He is smart and also hardworking.",
+        tamil_example: "அவன் புத்திசாலி மற்றும் கடினமாக உழைக்கிறான்.",
+      },
+      {
+        meaning: "Emphasizing similarity or agreement",
+        tamil: "இணைப்பு அல்லது ஒப்புதலை வலியுறுத்தும்",
+        example: "I will come, and my brother will also come.",
+        tamil_example: "நான் வருவேன், என் சகோதரனும் கூட வருவான்.",
       },
     ],
   },
@@ -3703,6 +3743,26 @@ const dictionary = {
         tamil: "ஒரு சிறிய மர தங்குமிடம்",
         example: "We stayed in a log cabin.",
         tamil_example: "நாங்கள் ஒரு லாக் கேபினில் தங்கினோம்.",
+      },
+    ],
+  },
+  concerns: {
+    word: "concerns",
+    tamil: "பரவலான பிரச்சனைகள் / கவலைகள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "Matters or issues that are important or cause worry",
+        tamil: "முக்கியமான அல்லது கவலைக்கிடமான விஷயங்கள்",
+        example: "The manager addressed the team's concerns.",
+        tamil_example: "மேலாளர் குழுவின் கவலைகளை குறிப்பிட்டார்.",
+      },
+      {
+        meaning: "Areas of interest or responsibility",
+        tamil: "ஆர்வம் அல்லது பொறுப்பின் பகுதிகள்",
+        example: "Environmental concerns are growing worldwide.",
+        tamil_example:
+          "உலகெங்கிலும் சுற்றுச்சூழல் தொடர்பான கவலைகள் அதிகரிக்கின்றன.",
       },
     ],
   },
@@ -10838,6 +10898,21 @@ const dictionary = {
         tamil: "ஒரு பெரிய இரையுண்ணும் பறவை",
         example: "The eagle soared high above the mountains.",
         tamil_example: "கழுகு மலைகளுக்கு மேலே உயரப் பறந்தது.",
+      },
+    ],
+  },
+  environmental: {
+    word: "environmental",
+    tamil: "சுற்றுச்சூழல் தொடர்புடைய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning:
+          "Related to the natural world and the impact of human activity on its condition",
+        tamil:
+          "இயற்கை உலகுடன் மற்றும் மனித செயற்பாட்டின் அதன்மீது விளைவுடன் தொடர்புடைய",
+        example: "Environmental protection is very important.",
+        tamil_example: "சுற்றுச்சூழல் பாதுகாப்பு மிகவும் முக்கியமானது.",
       },
     ],
   },
@@ -30035,6 +30110,31 @@ const dictionary = {
       },
     ],
   },
+  hung: {
+    word: "hung",
+    tamil: "தொங்கியது / தொங்கியிருந்தது",
+    type: "verb (past tense of 'hang')",
+    meanings: [
+      {
+        meaning: "To be suspended or attached from above",
+        tamil: "மேலிருந்து தொங்குவதைக் குறிக்கும்",
+        example: "The picture hung on the wall.",
+        tamil_example: "படம் சுவரில் தொங்கியது.",
+      },
+      {
+        meaning: "To be positioned or placed so that it dangles",
+        tamil: "இழையோடு அல்லது சுதந்திரமாக கீழ் நோக்கி தொங்கும் நிலை",
+        example: "The bell hung above the entrance.",
+        tamil_example: "மணி நுழைவு வாசலின் மேலே தொங்கியிருந்தது.",
+      },
+      {
+        meaning: "To be displayed in a suspended way (like art or decoration)",
+        tamil: "தொங்க வைத்து காட்சிப்படுத்தும் செயல்",
+        example: "Several flags hung from the ceiling.",
+        tamil_example: "பல கொடிகள் மேல்மாடியில் இருந்து தொங்கியிருந்தன.",
+      },
+    ],
+  },
   headband: {
     word: "headband",
     tamil: "தலைப்பட்டி",
@@ -30489,33 +30589,146 @@ const dictionary = {
       },
     ],
   },
+  slightly: {
+    word: "slightly",
+    tamil: "சிறிது அளவு / கொஞ்சம்",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "To a small degree or extent",
+        tamil: "சிறிய அளவு அல்லது மட்டத்தில்",
+        example: "The weather is slightly warmer today.",
+        tamil_example: "இன்று வானிலை கொஞ்சம் வெப்பமாக உள்ளது.",
+      },
+    ],
+  },
+  separate: {
+    word: "separate",
+    tamil: "பிரித்து வைக்கவும் / தனித்தனியாக",
+    type: "verb / adjective",
+    meanings: [
+      {
+        meaning: "To cause to be apart or divided",
+        tamil: "பிரித்து தனியாக வைக்கவும்",
+        example: "Please separate the recyclable materials from the trash.",
+        tamil_example:
+          "தயவுசெய்து மறுசுழற்சி செய்யக்கூடிய பொருட்களை குப்பையிலிருந்து பிரித்து வைக்கவும்.",
+      },
+      {
+        meaning: "Existing or considered independently",
+        tamil: "தனித்தனியாக இருக்கும் அல்லது கருதப்படும்",
+        example: "They live in separate houses.",
+        tamil_example: "அவர்கள் தனித்தனியாக வீடுகளில் வாழ்கிறார்கள்.",
+      },
+      {
+        meaning: "To divide or split into parts",
+        tamil: "பகுதிகள் அல்லது துண்டுகளாக பிரிக்கவும்",
+        example: "The teacher asked us to separate into groups.",
+        tamil_example: "ஆசிரியர் நமக்கு குழுக்களாக பிரிவதற்கு சொன்னார்.",
+      },
+    ],
+  },
+  interconnected: {
+    word: "interconnected",
+    tamil: "இணைக்கப்பட்டுள்ள",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Linked or connected with each other",
+        tamil: "ஒருவருடன் ஒருவர் இணைக்கப்பட்டிருப்பது",
+        example: "The internet and smartphones are deeply interconnected.",
+        tamil_example: "இணையமும் ஸ்மார்ட்போன்களும் ஆழமாக இணைக்கப்பட்டுள்ளன.",
+      },
+      {
+        meaning: "Having various parts or systems connected to work together",
+        tamil: "பல பகுதிகள் அல்லது அமைப்புகள் இணைந்து செயல்படுவது",
+        example:
+          "The city's transportation systems are interconnected for efficiency.",
+        tamil_example:
+          "நகரத்தின் போக்குவரத்து அமைப்புகள் திறம்பட இணைக்கப்பட்டுள்ளன.",
+      },
+      {
+        meaning: "Dependent on each other in a complex way",
+        tamil: "சிக்கலான முறையில் ஒருவருக்கொருவர் சார்ந்திருப்பது",
+        example: "Economic markets are highly interconnected worldwide.",
+        tamil_example:
+          "உலகமுழுவதும் பொருளாதார சந்தைகள் மிகவும் இணைக்கப்பட்டுள்ளன.",
+      },
+    ],
+  },
+
+  "little bit": {
+    word: "little bit",
+    tamil: "சிறிய அளவு / கொஞ்சம்",
+    type: "phrase",
+    meanings: [
+      {
+        meaning: "A small amount or degree",
+        tamil: "சிறிய அளவு அல்லது மட்டம்",
+        example: "Can you wait a little bit?",
+        tamil_example: "நீங்கள் கொஞ்சம் காத்திருக்க முடியுமா?",
+      },
+    ],
+  },
+  widely: {
+    word: "widely",
+    tamil: "பரந்த அளவில் / வெகுவாக",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "Over a large area or among many people",
+        tamil: "பெரிய பகுதியில் அல்லது பலரிடையே",
+        example: "The book is widely read around the world.",
+        tamil_example:
+          "இந்த புத்தகம் உலகம் முழுவதும் பரந்த அளவில் படிக்கப்படுகிறது.",
+      },
+      {
+        meaning: "To a great extent or degree",
+        tamil: "மிகுந்த அளவுக்கு",
+        example: "This idea is widely accepted by scientists.",
+        tamil_example: "இந்த கருத்து விஞ்ஞானிகளால் பரவலாக ஏற்கப்படுகிறது.",
+      },
+      {
+        meaning: "Covering a wide range of topics or areas",
+        tamil: "பல விதமான பகுதிகளை உள்ளடக்கியது",
+        example: "He is widely known for his knowledge in different fields.",
+        tamil_example:
+          "வேறு துறைகளில் உள்ள அறிவுக்காக அவர் பரந்த அளவில் அறியப்படுகிறார்.",
+      },
+    ],
+  },
 };
 
-let currentPage = 1;
-const wordsPerPage = 10;
-let filteredKeys = Object.keys(dictionary);
+   let currentPage = 1;
+    const wordsPerPage = 10;
+    let filteredKeys = Object.keys(dictionary);
+    let searchStartTime = 0;
 
-function renderList() {
-  const list = document.getElementById("word-list");
-  list.innerHTML = "";
-  const start = (currentPage - 1) * wordsPerPage;
-  const end = start + wordsPerPage;
-  const keys = filteredKeys.slice(start, end);
+    function renderList() {
+      const list = document.getElementById("word-list");
+      list.innerHTML = "";
+      const start = (currentPage - 1) * wordsPerPage;
+      const end = start + wordsPerPage;
+      const keys = filteredKeys.slice(start, end);
 
-  keys.forEach((key) => {
-    const li = document.createElement("li");
-    li.textContent = key;
-    li.onclick = () => showDetails(key);
-    list.appendChild(li);
-  });
+      keys.forEach((key) => {
+        const li = document.createElement("li");
+        li.textContent = key;
+        li.onclick = () => showDetails(key);
+        list.appendChild(li);
+      });
 
-  document.getElementById("page-info").textContent = `Page ${currentPage}`;
-}
+      document.getElementById("page-info").textContent = `Page ${currentPage}`;
+      
+      // Update pagination buttons
+      document.getElementById("prev-page").disabled = currentPage === 1;
+      document.getElementById("next-page").disabled = currentPage * wordsPerPage >= filteredKeys.length;
+    }
 
-function showDetails(key) {
-  const word = dictionary[key];
-  const box = document.getElementById("word-details");
-  box.innerHTML = `
+    function showDetails(key) {
+      const word = dictionary[key];
+      const box = document.getElementById("word-details");
+      box.innerHTML = `
         <h2>${word.word} (${word.type})</h2>
         <h3>தமிழ்: ${word.tamil}</h3>
         ${word.meanings
@@ -30528,62 +30741,232 @@ function showDetails(key) {
           )
           .join("<hr>")}
       `;
-}
+    }
 
-document.getElementById("search-btn").onclick = () => {
-  const query = document.getElementById("search-input").value.toLowerCase();
-  filteredKeys = Object.keys(dictionary).filter((k) => k.includes(query));
-  currentPage = 1;
-  renderList();
-};
+    function updateSearchStats(query, resultsCount, searchTime) {
+      const statsDiv = document.getElementById("search-stats");
+      if (query) {
+        statsDiv.innerHTML = `
+          <strong>Search Results:</strong> Found ${resultsCount} word(s) for "${query}" | 
+          <strong>Search Time:</strong> ${searchTime}ms | 
+          <strong>Total Words:</strong> ${Object.keys(dictionary).length}
+        `;
+      } else {
+        statsDiv.innerHTML = `
+          <strong>All Words:</strong> Showing ${filteredKeys.length} words | 
+          <strong>Total Dictionary:</strong> ${Object.keys(dictionary).length} words
+        `;
+      }
+    }
 
-document.getElementById("prev-page").onclick = () => {
-  if (currentPage > 1) {
-    currentPage--;
-    renderList();
-  }
-};
+ 
+    function renderList() {
+      const list = document.getElementById("word-list");
+      list.innerHTML = "";
+      const start = (currentPage - 1) * wordsPerPage;
+      const end = start + wordsPerPage;
+      const keys = filteredKeys.slice(start, end);
 
-document.getElementById("next-page").onclick = () => {
-  if (currentPage * wordsPerPage < filteredKeys.length) {
-    currentPage++;
-    renderList();
-  }
-};
+      if (keys.length === 0) {
+        const li = document.createElement("li");
+        li.textContent = "No words found";
+        list.appendChild(li);
+      } else {
+        keys.forEach((key) => {
+          const li = document.createElement("li");
+          li.textContent = dictionary[key].word;
+          li.onclick = () => showDetails(key);
+          list.appendChild(li);
+        });
+      }
 
-function createAlphabetNav() {
-  const nav = document.getElementById("alphabet-nav");
-  "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((l) => {
-    const btn = document.createElement("button");
-    btn.textContent = l;
-    btn.onclick = () => {
-      filteredKeys = Object.keys(dictionary).filter(
-        (k) => k[0].toUpperCase() === l
-      );
+      document.getElementById("page-info").textContent = `Page ${currentPage} of ${Math.ceil(filteredKeys.length / wordsPerPage)}`;
+      
+      // Update pagination buttons
+      document.getElementById("prev-page").disabled = currentPage === 1;
+      document.getElementById("next-page").disabled = currentPage * wordsPerPage >= filteredKeys.length;
+    }
+
+    function showDetails(key) {
+      const word = dictionary[key];
+      const box = document.getElementById("word-details");
+      box.innerHTML = `
+        <h2>${word.word} (${word.type})</h2>
+        <h3>தமிழ்: ${word.tamil}</h3>
+        ${word.meanings
+          .map(
+            (m) => `
+          <p><b>Meaning:</b> ${m.meaning}</p>
+          <p><b>தமிழ்:</b> ${m.tamil}</p>
+          <p><i>Example: ${m.example}</i><br>தமிழ்: ${m.tamil_example}</p>
+        `
+          )
+          .join("<hr>")}
+      `;
+      
+      // Scroll to details on mobile
+      if (window.innerWidth <= 768) {
+        box.scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+
+    function updateSearchStats(query, resultsCount, searchTime) {
+      const statsDiv = document.getElementById("search-stats");
+      if (query) {
+        statsDiv.innerHTML = `
+          <strong>Search Results:</strong> Found ${resultsCount} word(s) for "${query}" | 
+          <strong>Search Time:</strong> ${searchTime}ms | 
+          <strong>Total Words:</strong> ${Object.keys(dictionary).length}
+        `;
+      } else {
+        statsDiv.innerHTML = `
+          <strong>All Words:</strong> Showing ${filteredKeys.length} words | 
+          <strong>Total Dictionary:</strong> ${Object.keys(dictionary).length} words
+        `;
+      }
+    }
+
+    document.getElementById("search-btn").onclick = () => {
+      const query = document.getElementById("search-input").value.trim();
+      performSearch(query);
+    };
+
+    // Add Enter key support for search
+    document.getElementById("search-input").addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        const query = document.getElementById("search-input").value.trim();
+        performSearch(query);
+      }
+    });
+
+    // Add input event for real-time search (optional)
+    document.getElementById("search-input").addEventListener("input", (e) => {
+      const query = e.target.value.trim();
+      if (query.length === 0) {
+        performSearch(""); // Show all when input is empty
+      } else if (query.length > 2) { // Only search after 3 characters
+        performSearch(query);
+      }
+    });
+
+    document.getElementById("prev-page").onclick = () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderList();
+      }
+    };
+
+    document.getElementById("next-page").onclick = () => {
+      if (currentPage * wordsPerPage < filteredKeys.length) {
+        currentPage++;
+        renderList();
+      }
+    };
+
+    function createAlphabetNav() {
+      const nav = document.getElementById("alphabet-nav");
+      
+      // Add "All" button
+      const allBtn = document.createElement("button");
+      allBtn.textContent = "All";
+      allBtn.onclick = () => {
+        searchStartTime = performance.now();
+        filteredKeys = Object.keys(dictionary);
+        const searchEndTime = performance.now();
+        const searchTime = Math.round(searchEndTime - searchStartTime);
+        
+        currentPage = 1;
+        renderList();
+        updateSearchStats("All words", filteredKeys.length, searchTime);
+        document.getElementById("search-input").value = "";
+      };
+      nav.appendChild(allBtn);
+      
+      // Add A-Z buttons
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((l) => {
+        const btn = document.createElement("button");
+        btn.textContent = l;
+        btn.onclick = () => {
+          searchStartTime = performance.now();
+          filteredKeys = Object.keys(dictionary).filter(
+            (k) => k[0].toUpperCase() === l
+          );
+          const searchEndTime = performance.now();
+          const searchTime = Math.round(searchEndTime - searchStartTime);
+          
+          currentPage = 1;
+          renderList();
+          updateSearchStats(`Words starting with "${l}"`, filteredKeys.length, searchTime);
+          document.getElementById("search-input").value = "";
+        };
+        nav.appendChild(btn);
+      });
+    }
+
+    // Enhanced search function with alphabet support
+    function performSearch(query = '') {
+      searchStartTime = performance.now();
+      
+      if (query.trim() === "") {
+        filteredKeys = Object.keys(dictionary);
+      } else {
+        // Check if it's a single letter (A-Z search)
+        if (query.length === 1 && /[A-Za-z]/.test(query)) {
+          filteredKeys = Object.keys(dictionary).filter(word => 
+            word.charAt(0).toUpperCase() === query.toUpperCase()
+          );
+        } else {
+          // Regular text search
+          filteredKeys = Object.keys(dictionary).filter(word => 
+            word.toLowerCase().includes(query.toLowerCase())
+          );
+        }
+      }
+      
+      const searchEndTime = performance.now();
+      const searchTime = Math.round(searchEndTime - searchStartTime);
+      
       currentPage = 1;
       renderList();
+      
+      let searchTerm;
+      if (query.trim() === "") {
+        searchTerm = "All words";
+      } else if (query.length === 1 && /[A-Za-z]/.test(query)) {
+        searchTerm = `Words starting with "${query.toUpperCase()}"`;
+      } else {
+        searchTerm = `"${query}"`;
+      }
+      
+      updateSearchStats(searchTerm, filteredKeys.length, searchTime);
+    }
+
+    document.getElementById("download-btn").onclick = (e) => {
+      e.preventDefault();
+      let text = "English-Tamil Dictionary\n";
+      text += "=".repeat(50) + "\n\n";
+      
+      for (let key in dictionary) {
+        const w = dictionary[key];
+        text += `${w.word} (${w.type}) - ${w.tamil}\n`;
+        w.meanings.forEach((m) => {
+          text += `  • ${m.meaning} / ${m.tamil}\n`;
+          text += `    Example: ${m.example} / ${m.tamil_example}\n`;
+        });
+        text += "\n";
+      }
+      
+      text += `\nTotal words: ${Object.keys(dictionary).length}\n`;
+      text += `Generated on: ${new Date().toLocaleString()}\n`;
+
+      const blob = new Blob([text], { type: "text/plain" });
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "english_tamil_dictionary.txt";
+      link.click();
     };
-    nav.appendChild(btn);
-  });
-}
 
-document.getElementById("download-btn").onclick = () => {
-  let text = "English-Tamil Dictionary\n\n";
-  for (let key in dictionary) {
-    const w = dictionary[key];
-    text += `${w.word} (${w.type}) - ${w.tamil}\n`;
-    w.meanings.forEach((m) => {
-      text += `  • ${m.meaning} / ${m.tamil}\n    Example: ${m.example} / ${m.tamil_example}\n`;
-    });
-    text += "\n";
-  }
-
-  const blob = new Blob([text], { type: "text/plain" });
-  const link = document.createElement("a");
-  link.href = URL.createObjectURL(blob);
-  link.download = "english_tamil_dictionary.txt";
-  link.click();
-};
-
-createAlphabetNav();
-renderList();
+    // Initialize the app
+    createAlphabetNav();
+    renderList();
+    updateSearchStats("", filteredKeys.length, 0);

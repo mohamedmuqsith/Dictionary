@@ -1,50 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>English-Tamil Dictionary</title>
- <link rel="stylesheet" href="style.css" />
-
-</head>
-<body>
-  <header>
-    <h1>English-Tamil Dictionary</h1>
-    <p>Learn English through your native Tamil language!</p>
-  </header>
-  <div class="container">
-    <div class="search-container">
-      <input type="text" id="search-input" placeholder="Search English word..." />
-      <button id="search-btn">Search</button>
-    </div>
-
-    <div class="alphabet-nav" id="alphabet-nav"></div>
-
-    <div class="dictionary-container">
-      <ul class="word-list" id="word-list"></ul>
-      <div class="word-details" id="word-details">
-        <h3>Select a word to see meaning</h3>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>English-Tamil Dictionary</title>
+   <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>English-Tamil Dictionary</h1>
+      <p>Learn English through your native Tamil language!</p>
+    </header>
+    <div class="container">
+      <div class="search-container">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search English word..."
+        />
+        <button id="search-btn">Search</button>
+        <div class="search-stats" id="search-stats">Ready to search...</div>
       </div>
+
+      <div class="alphabet-nav" id="alphabet-nav"></div>
+
+      <div class="dictionary-container">
+        <ul class="word-list" id="word-list"></ul>
+        <div class="word-details" id="word-details">
+          <h3>Select a word to see meaning</h3>
+        </div>
+      </div>
+
+      <div class="pagination">
+        <button id="prev-page">Previous</button>
+        <span id="page-info">Page 1</span>
+        <button id="next-page">Next</button>
+      </div>
+
+      <a href="#" class="download-btn" id="download-btn"
+        >Download Dictionary (.txt)</a
+      >
     </div>
 
-    <div class="pagination">
-      <button id="prev-page">Previous</button>
-      <span id="page-info">Page 1</span>
-      <button id="next-page">Next</button>
-    </div>
-
-    <a href="#" class="download-btn" id="download-btn">Download Dictionary (.txt)</a>
-  </div>
-
-  <script src="script.js">
-   </script>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
-
-
-
-
-
-
-
-
