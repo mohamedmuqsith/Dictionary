@@ -30697,276 +30697,440 @@ const dictionary = {
       },
     ],
   },
+  typically: {
+    word: "typically",
+    tamil: "இடையிடையே / பொதுவாக",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "Usually; in most cases",
+        tamil: "சாதாரணமாக; பெரும்பாலான வழிகளில்",
+        example: "She typically arrives at 9 AM.",
+        tamil_example: "அவள் பொதுவாக காலை 9 மணிக்கு வருவாள்.",
+      },
+      {
+        meaning:
+          "In a way that is characteristic of a particular person, thing, or group",
+        tamil: "ஒரு குறிப்பிட்ட நபர், பொருள் அல்லது குழுவின் பண்புக்கேற்ப",
+        example: "The restaurant typically serves traditional food.",
+        tamil_example: "அந்த உணவகம் பொதுவாக பாரம்பரிய உணவை வழங்குகிறது.",
+      },
+      {
+        meaning: "As a normal or expected example",
+        tamil: "இயல்பான அல்லது எதிர்பார்க்கப்படும் உதாரணமாக",
+        example: "Typically, winter is cold in this region.",
+        tamil_example: "இப்பகுதியில் குளிர்காலம் பொதுவாக குளிராக இருக்கும்.",
+      },
+    ],
+  },
+  traditional: {
+    word: "traditional",
+    tamil: "பாரம்பரியமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Based on customs and long-established practices",
+        tamil: "சமயக் கடவுள் மற்றும் பழமையான நடைமுறைகளின் அடிப்படையில்",
+        example: "They wore traditional clothes during the festival.",
+        tamil_example: "பண்டிகையின் போது அவர்கள் பாரம்பரிய உடைகளை அணிந்தனர்.",
+      },
+      {
+        meaning: "Handed down from generation to generation",
+        tamil: "தலைமுறைமாறி கையளிக்கப்பட்ட",
+        example: "Traditional music is an important part of their culture.",
+        tamil_example:
+          "பாரம்பரிய இசை அவர்கள் பண்பாட்டின் ஒரு முக்கிய பகுதியாகும்.",
+      },
+      {
+        meaning: "Following long-established customs rather than modern ideas",
+        tamil: "புதுமையான எண்ணங்களுக்குப் பதிலாக பழமையான முறைகளை பின்பற்றுவது",
+        example: "They prefer traditional methods of farming.",
+        tamil_example:
+          "அவர்கள் பாரம்பரிய விவசாய முறைகளை முன்னுரிமை அளிக்கின்றனர்.",
+      },
+    ],
+  },
+  dimensions: {
+    word: "dimensions",
+    tamil: "அளவுகள் / பரிமாணங்கள்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "A measurable extent of length, width, and height",
+        tamil: "நீளம், அகலம், உயரம் போன்ற அளவிடக்கூடிய பரிமாணம்",
+        example: "The room's dimensions are 10 meters by 12 meters.",
+        tamil_example: "அந்த அறையின் அளவுகள் 10 மீட்டர் × 12 மீட்டர் ஆகும்.",
+      },
+      {
+        meaning: "An aspect or feature of a situation, problem, or thing",
+        tamil: "ஒரு நிலைமையின் அம்சம் அல்லது முகம்",
+        example: "We must consider the emotional dimensions of the issue.",
+        tamil_example:
+          "இந்த பிரச்சனையின் உணர்ச்சி சார்ந்த அம்சங்களையும் நாம் பரிசீலிக்க வேண்டும்.",
+      },
+      {
+        meaning: "A level or space in which something exists or operates",
+        tamil: "ஏதேனும் ஒன்று இயங்கும் நிலை அல்லது பரப்பு",
+        example:
+          "Some scientists study the possibility of extra dimensions in the universe.",
+        tamil_example:
+          "சில விஞ்ஞானிகள் பிரபஞ்சத்தில் கூடுதல் பரிமாணங்கள் இருக்கலாம் என ஆராய்கிறார்கள்.",
+      },
+    ],
+  },
+  measurable: {
+    word: "measurable",
+    tamil: "அளவிடக்கூடிய / கணிக்கக்கூடிய",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Able to be measured in size, amount, or degree",
+        tamil: "அளவு, தொகை, அல்லது மட்டத்தில் அளவிடக்கூடியது",
+        example: "There was a measurable improvement in his performance.",
+        tamil_example:
+          "அவனுடைய செயல்திறனில் அளவிடக்கூடிய முன்னேற்றம் காணப்பட்டது.",
+      },
+      {
+        meaning: "Clearly noticeable or significant enough to be quantified",
+        tamil: "தெளிவாக கவனிக்கக்கூடியது அல்லது கணிக்கக்கூடிய அளவில் இருக்கும்",
+        example: "The medicine showed measurable effects within a week.",
+        tamil_example:
+          "மருந்து ஒரு வாரத்திற்குள் கணிக்கக்கூடிய விளைவுகளை காட்டியது.",
+      },
+      {
+        meaning: "Capable of being compared using a standard unit",
+        tamil: "ஒரு நிலையான அலகைப் பயன்படுத்தி ஒப்பிடக்கூடியது",
+        example: "Only measurable data can be used in scientific experiments.",
+        tamil_example:
+          "அளவிடக்கூடிய தரவுகள் மட்டுமே அறிவியல் பரிசோதனைகளில் பயன்படுத்தப்படுகின்றன.",
+      },
+    ],
+  },
+  exist: {
+    word: "exist",
+    tamil: "இரு / உள்ளதாக இருக்கவும்",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To be real or present in a place or situation",
+        tamil: "உண்மையாக இருக்கவும் அல்லது ஒரு இடத்தில் உள்ளதாக இருக்கவும்",
+        example: "Dinosaurs no longer exist.",
+        tamil_example: "டைனோசர்களின் இனங்கள் இனி இல்லை (அவை இனிமேல் இல்லை).",
+      },
+      {
+        meaning: "To continue to live or be alive",
+        tamil: "வாழ்ந்து கொண்டிருப்பது அல்லது உயிருடன் இருப்பது",
+        example: "Some species exist only in remote forests.",
+        tamil_example:
+          "சில உயிரினங்கள் வெகு தூரமான காடுகளில் மட்டுமே வாழ்ந்துகொண்டு இருக்கின்றன.",
+      },
+      {
+        meaning: "To remain or continue in a certain condition or state",
+        tamil: "ஒரு நிலைமையிலோ அல்லது சூழ்நிலையிலோ தொடர்ந்தும் இருக்கிறது",
+        example: "Poverty still exists in many parts of the world.",
+        tamil_example: "பல்வேறு பகுதிகளில் ஏழ்மை இன்னும் நிலவுகிறது.",
+      },
+    ],
+  },
+  remote: {
+    word: "remote",
+    tamil: "தொலைவான / பல்லாயிரம் தொலைவில் உள்ள",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Far away from cities, people, or civilization",
+        tamil: "நகரங்கள், மக்கள் அல்லது நாகரிகத்திலிருந்து தொலைவில் உள்ள",
+        example: "They live in a remote village in the mountains.",
+        tamil_example:
+          "அவர்கள் மலைகளில் உள்ள ஒரு தொலைவான கிராமத்தில் வாழ்கிறார்கள்.",
+      },
+      {
+        meaning: "Slight or very unlikely",
+        tamil: "மிக குறைந்த சாத்தியத்துடன் இருப்பது",
+        example: "There is only a remote chance of success.",
+        tamil_example: "வெற்றிக்கான சாத்தியம் மிகக் குறைவாக உள்ளது.",
+      },
+      {
+        meaning: "Operating or controlled from a distance",
+        tamil: "தொலைதூரத்திலிருந்து இயக்கப்படும் அல்லது கட்டுப்படுத்தப்படும்",
+        example: "He works for a company that allows remote work.",
+        tamil_example:
+          "அவன் தொலைவேலை செய்ய அனுமதிக்கும் நிறுவனத்தில் பணியாற்றுகிறான்.",
+      },
+    ],
+  },
 };
 
-   let currentPage = 1;
-    const wordsPerPage = 10;
-    let filteredKeys = Object.keys(dictionary);
-    let searchStartTime = 0;
+let currentPage = 1;
+const wordsPerPage = 10;
+let filteredKeys = Object.keys(dictionary);
+let searchStartTime = 0;
 
-    function renderList() {
-      const list = document.getElementById("word-list");
-      list.innerHTML = "";
-      const start = (currentPage - 1) * wordsPerPage;
-      const end = start + wordsPerPage;
-      const keys = filteredKeys.slice(start, end);
+// Text-to-speech function
+function speakWord(text, lang = "en-US") {
+  if ("speechSynthesis" in window) {
+    // Cancel any ongoing speech
+    window.speechSynthesis.cancel();
 
-      keys.forEach((key) => {
-        const li = document.createElement("li");
-        li.textContent = key;
-        li.onclick = () => showDetails(key);
-        list.appendChild(li);
-      });
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = lang;
+    utterance.rate = 0.9;
+    utterance.pitch = 1;
 
-      document.getElementById("page-info").textContent = `Page ${currentPage}`;
-      
-      // Update pagination buttons
-      document.getElementById("prev-page").disabled = currentPage === 1;
-      document.getElementById("next-page").disabled = currentPage * wordsPerPage >= filteredKeys.length;
+    // Find a female voice if available
+    const voices = window.speechSynthesis.getVoices();
+    const femaleVoice = voices.find(
+      (voice) => voice.lang.includes("en") && voice.name.includes("Female")
+    );
+
+    if (femaleVoice) {
+      utterance.voice = femaleVoice;
     }
 
-    function showDetails(key) {
-      const word = dictionary[key];
-      const box = document.getElementById("word-details");
-      box.innerHTML = `
-        <h2>${word.word} (${word.type})</h2>
+    window.speechSynthesis.speak(utterance);
+  } else {
+    alert(
+      "Text-to-speech is not supported in your browser. Try Chrome or Edge."
+    );
+  }
+}
+
+// Load voices when they become available
+if ("speechSynthesis" in window) {
+  speechSynthesis.onvoiceschanged = function () {
+    // Voices are now loaded
+  };
+}
+
+function renderList() {
+  const list = document.getElementById("word-list");
+  list.innerHTML = "";
+  const start = (currentPage - 1) * wordsPerPage;
+  const end = start + wordsPerPage;
+  const keys = filteredKeys.slice(start, end);
+
+  if (keys.length === 0) {
+    const li = document.createElement("li");
+    li.textContent = "No words found";
+    list.appendChild(li);
+  } else {
+    keys.forEach((key) => {
+      const li = document.createElement("li");
+      li.innerHTML = `
+            <span>${dictionary[key].word}</span>
+            <i class="fas fa-volume-up speaker-icon" 
+               onclick="speakWord('${dictionary[key].word}'); event.stopPropagation()" 
+               title="Click to pronounce"></i>
+          `;
+      li.onclick = () => showDetails(key);
+      list.appendChild(li);
+    });
+  }
+
+  const totalPages = Math.ceil(filteredKeys.length / wordsPerPage);
+  document.getElementById(
+    "page-info"
+  ).textContent = `Page ${currentPage} of ${totalPages}`;
+
+  // Update pagination buttons
+  document.getElementById("prev-page").disabled = currentPage === 1;
+  document.getElementById("next-page").disabled = currentPage >= totalPages;
+}
+
+function showDetails(key) {
+  const word = dictionary[key];
+  const box = document.getElementById("word-details");
+  box.innerHTML = `
+        <div class="word-header">
+          <h2>${word.word} (${word.type})</h2>
+          <i class="fas fa-volume-up speaker-icon" 
+             onclick="speakWord('${word.word}')" 
+             style="font-size: 24px;" 
+             title="Click to pronounce"></i>
+        </div>
         <h3>தமிழ்: ${word.tamil}</h3>
         ${word.meanings
           .map(
             (m) => `
-          <p><b>Meaning:</b> ${m.meaning}</p>
-          <p><b>தமிழ்:</b> ${m.tamil}</p>
-          <p><i>${m.example}</i><br>தமிழ்: ${m.tamil_example}</p>
+          <div class="meaning-block">
+            <p><b>Meaning:</b> ${m.meaning}</p>
+            <p><b>தமிழ்:</b> ${m.tamil}</p>
+            <p><i>Example: ${m.example}</i><br>தமிழ்: ${m.tamil_example}</p>
+          </div>
         `
           )
           .join("<hr>")}
       `;
-    }
 
-    function updateSearchStats(query, resultsCount, searchTime) {
-      const statsDiv = document.getElementById("search-stats");
-      if (query) {
-        statsDiv.innerHTML = `
+  // Scroll to details on mobile
+  if (window.innerWidth <= 768) {
+    box.scrollIntoView({ behavior: "smooth" });
+  }
+}
+
+function updateSearchStats(query, resultsCount, searchTime) {
+  const statsDiv = document.getElementById("search-stats");
+  if (query) {
+    statsDiv.innerHTML = `
           <strong>Search Results:</strong> Found ${resultsCount} word(s) for "${query}" | 
           <strong>Search Time:</strong> ${searchTime}ms | 
           <strong>Total Words:</strong> ${Object.keys(dictionary).length}
         `;
-      } else {
-        statsDiv.innerHTML = `
+  } else {
+    statsDiv.innerHTML = `
           <strong>All Words:</strong> Showing ${filteredKeys.length} words | 
-          <strong>Total Dictionary:</strong> ${Object.keys(dictionary).length} words
+          <strong>Total Dictionary:</strong> ${
+            Object.keys(dictionary).length
+          } words
         `;
-      }
-    }
+  }
+}
 
- 
-    function renderList() {
-      const list = document.getElementById("word-list");
-      list.innerHTML = "";
-      const start = (currentPage - 1) * wordsPerPage;
-      const end = start + wordsPerPage;
-      const keys = filteredKeys.slice(start, end);
+document.getElementById("search-btn").onclick = () => {
+  const query = document.getElementById("search-input").value.trim();
+  performSearch(query);
+};
 
-      if (keys.length === 0) {
-        const li = document.createElement("li");
-        li.textContent = "No words found";
-        list.appendChild(li);
-      } else {
-        keys.forEach((key) => {
-          const li = document.createElement("li");
-          li.textContent = dictionary[key].word;
-          li.onclick = () => showDetails(key);
-          list.appendChild(li);
-        });
-      }
+// Add Enter key support for search
+document.getElementById("search-input").addEventListener("keypress", (e) => {
+  if (e.key === "Enter") {
+    const query = document.getElementById("search-input").value.trim();
+    performSearch(query);
+  }
+});
 
-      document.getElementById("page-info").textContent = `Page ${currentPage} of ${Math.ceil(filteredKeys.length / wordsPerPage)}`;
-      
-      // Update pagination buttons
-      document.getElementById("prev-page").disabled = currentPage === 1;
-      document.getElementById("next-page").disabled = currentPage * wordsPerPage >= filteredKeys.length;
-    }
+// Add input event for real-time search
+document.getElementById("search-input").addEventListener("input", (e) => {
+  const query = e.target.value.trim();
+  if (query.length === 0) {
+    performSearch(""); // Show all when input is empty
+  } else if (query.length > 2) {
+    // Only search after 3 characters
+    performSearch(query);
+  }
+});
 
-    function showDetails(key) {
-      const word = dictionary[key];
-      const box = document.getElementById("word-details");
-      box.innerHTML = `
-        <h2>${word.word} (${word.type})</h2>
-        <h3>தமிழ்: ${word.tamil}</h3>
-        ${word.meanings
-          .map(
-            (m) => `
-          <p><b>Meaning:</b> ${m.meaning}</p>
-          <p><b>தமிழ்:</b> ${m.tamil}</p>
-          <p><i>Example: ${m.example}</i><br>தமிழ்: ${m.tamil_example}</p>
-        `
-          )
-          .join("<hr>")}
-      `;
-      
-      // Scroll to details on mobile
-      if (window.innerWidth <= 768) {
-        box.scrollIntoView({ behavior: 'smooth' });
-      }
-    }
+document.getElementById("prev-page").onclick = () => {
+  if (currentPage > 1) {
+    currentPage--;
+    renderList();
+  }
+};
 
-    function updateSearchStats(query, resultsCount, searchTime) {
-      const statsDiv = document.getElementById("search-stats");
-      if (query) {
-        statsDiv.innerHTML = `
-          <strong>Search Results:</strong> Found ${resultsCount} word(s) for "${query}" | 
-          <strong>Search Time:</strong> ${searchTime}ms | 
-          <strong>Total Words:</strong> ${Object.keys(dictionary).length}
-        `;
-      } else {
-        statsDiv.innerHTML = `
-          <strong>All Words:</strong> Showing ${filteredKeys.length} words | 
-          <strong>Total Dictionary:</strong> ${Object.keys(dictionary).length} words
-        `;
-      }
-    }
+document.getElementById("next-page").onclick = () => {
+  if (currentPage * wordsPerPage < filteredKeys.length) {
+    currentPage++;
+    renderList();
+  }
+};
 
-    document.getElementById("search-btn").onclick = () => {
-      const query = document.getElementById("search-input").value.trim();
-      performSearch(query);
-    };
+function createAlphabetNav() {
+  const nav = document.getElementById("alphabet-nav");
 
-    // Add Enter key support for search
-    document.getElementById("search-input").addEventListener("keypress", (e) => {
-      if (e.key === "Enter") {
-        const query = document.getElementById("search-input").value.trim();
-        performSearch(query);
-      }
-    });
+  // Add "All" button
+  const allBtn = document.createElement("button");
+  allBtn.textContent = "All";
+  allBtn.onclick = () => {
+    searchStartTime = performance.now();
+    filteredKeys = Object.keys(dictionary);
+    const searchEndTime = performance.now();
+    const searchTime = Math.round(searchEndTime - searchStartTime);
 
-    // Add input event for real-time search (optional)
-    document.getElementById("search-input").addEventListener("input", (e) => {
-      const query = e.target.value.trim();
-      if (query.length === 0) {
-        performSearch(""); // Show all when input is empty
-      } else if (query.length > 2) { // Only search after 3 characters
-        performSearch(query);
-      }
-    });
+    currentPage = 1;
+    renderList();
+    updateSearchStats("All words", filteredKeys.length, searchTime);
+    document.getElementById("search-input").value = "";
+  };
+  nav.appendChild(allBtn);
 
-    document.getElementById("prev-page").onclick = () => {
-      if (currentPage > 1) {
-        currentPage--;
-        renderList();
-      }
-    };
-
-    document.getElementById("next-page").onclick = () => {
-      if (currentPage * wordsPerPage < filteredKeys.length) {
-        currentPage++;
-        renderList();
-      }
-    };
-
-    function createAlphabetNav() {
-      const nav = document.getElementById("alphabet-nav");
-      
-      // Add "All" button
-      const allBtn = document.createElement("button");
-      allBtn.textContent = "All";
-      allBtn.onclick = () => {
-        searchStartTime = performance.now();
-        filteredKeys = Object.keys(dictionary);
-        const searchEndTime = performance.now();
-        const searchTime = Math.round(searchEndTime - searchStartTime);
-        
-        currentPage = 1;
-        renderList();
-        updateSearchStats("All words", filteredKeys.length, searchTime);
-        document.getElementById("search-input").value = "";
-      };
-      nav.appendChild(allBtn);
-      
-      // Add A-Z buttons
-      "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((l) => {
-        const btn = document.createElement("button");
-        btn.textContent = l;
-        btn.onclick = () => {
-          searchStartTime = performance.now();
-          filteredKeys = Object.keys(dictionary).filter(
-            (k) => k[0].toUpperCase() === l
-          );
-          const searchEndTime = performance.now();
-          const searchTime = Math.round(searchEndTime - searchStartTime);
-          
-          currentPage = 1;
-          renderList();
-          updateSearchStats(`Words starting with "${l}"`, filteredKeys.length, searchTime);
-          document.getElementById("search-input").value = "";
-        };
-        nav.appendChild(btn);
-      });
-    }
-
-    // Enhanced search function with alphabet support
-    function performSearch(query = '') {
+  // Add A-Z buttons
+  "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("").forEach((l) => {
+    const btn = document.createElement("button");
+    btn.textContent = l;
+    btn.onclick = () => {
       searchStartTime = performance.now();
-      
-      if (query.trim() === "") {
-        filteredKeys = Object.keys(dictionary);
-      } else {
-        // Check if it's a single letter (A-Z search)
-        if (query.length === 1 && /[A-Za-z]/.test(query)) {
-          filteredKeys = Object.keys(dictionary).filter(word => 
-            word.charAt(0).toUpperCase() === query.toUpperCase()
-          );
-        } else {
-          // Regular text search
-          filteredKeys = Object.keys(dictionary).filter(word => 
-            word.toLowerCase().includes(query.toLowerCase())
-          );
-        }
-      }
-      
+      filteredKeys = Object.keys(dictionary).filter(
+        (k) => k[0].toUpperCase() === l
+      );
       const searchEndTime = performance.now();
       const searchTime = Math.round(searchEndTime - searchStartTime);
-      
+
       currentPage = 1;
       renderList();
-      
-      let searchTerm;
-      if (query.trim() === "") {
-        searchTerm = "All words";
-      } else if (query.length === 1 && /[A-Za-z]/.test(query)) {
-        searchTerm = `Words starting with "${query.toUpperCase()}"`;
-      } else {
-        searchTerm = `"${query}"`;
-      }
-      
-      updateSearchStats(searchTerm, filteredKeys.length, searchTime);
-    }
-
-    document.getElementById("download-btn").onclick = (e) => {
-      e.preventDefault();
-      let text = "English-Tamil Dictionary\n";
-      text += "=".repeat(50) + "\n\n";
-      
-      for (let key in dictionary) {
-        const w = dictionary[key];
-        text += `${w.word} (${w.type}) - ${w.tamil}\n`;
-        w.meanings.forEach((m) => {
-          text += `  • ${m.meaning} / ${m.tamil}\n`;
-          text += `    Example: ${m.example} / ${m.tamil_example}\n`;
-        });
-        text += "\n";
-      }
-      
-      text += `\nTotal words: ${Object.keys(dictionary).length}\n`;
-      text += `Generated on: ${new Date().toLocaleString()}\n`;
-
-      const blob = new Blob([text], { type: "text/plain" });
-      const link = document.createElement("a");
-      link.href = URL.createObjectURL(blob);
-      link.download = "english_tamil_dictionary.txt";
-      link.click();
+      updateSearchStats(
+        `Words starting with "${l}"`,
+        filteredKeys.length,
+        searchTime
+      );
+      document.getElementById("search-input").value = "";
     };
+    nav.appendChild(btn);
+  });
+}
 
-    // Initialize the app
-    createAlphabetNav();
-    renderList();
-    updateSearchStats("", filteredKeys.length, 0);
+function performSearch(query = "") {
+  searchStartTime = performance.now();
+
+  if (query.trim() === "") {
+    filteredKeys = Object.keys(dictionary);
+  } else {
+    // Check if it's a single letter (A-Z search)
+    if (query.length === 1 && /[A-Za-z]/.test(query)) {
+      filteredKeys = Object.keys(dictionary).filter(
+        (word) => word.charAt(0).toUpperCase() === query.toUpperCase()
+      );
+    } else {
+      // Regular text search
+      filteredKeys = Object.keys(dictionary).filter((word) =>
+        word.toLowerCase().includes(query.toLowerCase())
+      );
+    }
+  }
+
+  const searchEndTime = performance.now();
+  const searchTime = Math.round(searchEndTime - searchStartTime);
+
+  currentPage = 1;
+  renderList();
+
+  let searchTerm;
+  if (query.trim() === "") {
+    searchTerm = "All words";
+  } else if (query.length === 1 && /[A-Za-z]/.test(query)) {
+    searchTerm = `Words starting with "${query.toUpperCase()}"`;
+  } else {
+    searchTerm = `"${query}"`;
+  }
+
+  updateSearchStats(searchTerm, filteredKeys.length, searchTime);
+}
+
+document.getElementById("download-btn").onclick = (e) => {
+  e.preventDefault();
+  let text = "English-Tamil Dictionary\n";
+  text += "=".repeat(50) + "\n\n";
+
+  for (let key in dictionary) {
+    const w = dictionary[key];
+    text += `${w.word} (${w.type}) - ${w.tamil}\n`;
+    w.meanings.forEach((m) => {
+      text += `  • ${m.meaning} / ${m.tamil}\n`;
+      text += `    Example: ${m.example} / ${m.tamil_example}\n`;
+    });
+    text += "\n";
+  }
+
+  text += `\nTotal words: ${Object.keys(dictionary).length}\n`;
+  text += `Generated on: ${new Date().toLocaleString()}\n`;
+
+  const blob = new Blob([text], { type: "text/plain" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob);
+  link.download = "english_tamil_dictionary.txt";
+  link.click();
+};
+
+// Initialize the app
+createAlphabetNav();
+renderList();
+updateSearchStats("", filteredKeys.length, 0);
