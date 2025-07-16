@@ -30859,6 +30859,408 @@ const dictionary = {
       },
     ],
   },
+  represents: {
+    word: "represents",
+    tamil: "பிரதிநிதித்துவம் செய்கிறது / குறிக்கிறது",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To act or speak on behalf of someone or something",
+        tamil: "யாரையோ அல்லது ஏதாவதையோ பிரதிநிதியாகச் செயல் படுதல்",
+        example: "She represents her school in the competition.",
+        tamil_example:
+          "அவள் போட்டியில் தன் பள்ளியை பிரதிநிதித்துவம் செய்கிறாள்.",
+      },
+      {
+        meaning: "To symbolize or stand for something",
+        tamil: "ஏதாவது ஒன்றை குறிக்கவோ அல்லது குறியீடாக இருப்பது",
+        example: "This logo represents our brand identity.",
+        tamil_example: "இந்த லோகோ எங்கள் பிராண்ட் அடையாளத்தை குறிக்கிறது.",
+      },
+      {
+        meaning: "To describe or portray something in a particular way",
+        tamil:
+          "ஏதாவது ஒன்றை ஒரு குறிப்பிட்ட முறையில் விவரித்தல் அல்லது காண்பித்தல்",
+        example: "The graph represents the population growth.",
+        tamil_example: "இந்த வரைபடம் மக்கள் தொகை வளர்ச்சியை குறிக்கிறது.",
+      },
+    ],
+  },
+  corresponding: {
+    word: "corresponding",
+    tamil: "இணையான / ஒத்த",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Similar in character, form, or function",
+        tamil: "பண்பு, வடிவம், அல்லது செயல்பாட்டில் ஒத்தது",
+        example: "Each number has a corresponding letter in the code.",
+        tamil_example:
+          "ஒவ்வொரு எண்ணுக்கும் குறியீட்டில் ஒரு இணையான எழுத்து உள்ளது.",
+      },
+      {
+        meaning: "Related to or connected with something else",
+        tamil: "வேறு ஏதோ ஒன்றுடன் தொடர்புடையது",
+        example:
+          "The company will increase salaries and make corresponding budget adjustments.",
+        tamil_example:
+          "நிறுவனம் சம்பளங்களை உயர்த்தும் மற்றும் அதற்கேற்ப பட்ஜெட்டில் மாற்றங்களைச் செய்யும்.",
+      },
+      {
+        meaning: "Matching or equivalent in some way",
+        tamil: "ஏதாவது வகையில் பொருந்தும் அல்லது சமமானது",
+        example: "Please find the corresponding section in your textbook.",
+        tamil_example: "உங்கள் பாடநூலில் உள்ள இணையான பகுதியில் பாருங்கள்.",
+      },
+    ],
+  },
+  similar: {
+    word: "similar",
+    tamil: "ஒத்த / சமமான",
+    type: "adjective",
+    meanings: [
+      {
+        meaning:
+          "Having a resemblance in appearance, character, or quantity without being identical",
+        tamil:
+          "முன்னோட்டம், பண்புகள், அல்லது அளவில் ஒரே மாதிரியாக இல்லாமல் ஒத்ததாக இருப்பது",
+        example: "These two designs are quite similar.",
+        tamil_example: "இந்த இரண்டு வடிவமைப்புகளும் மிகவும் ஒத்ததாக உள்ளன.",
+      },
+      {
+        meaning: "Almost the same but not exactly",
+        tamil: "மிகவும் ஒத்ததுபோல் இருப்பது ஆனால் முற்றிலும் ஒரே மாதிரி அல்ல",
+        example: "Their voices are so similar that I can't tell them apart.",
+        tamil_example:
+          "அவர்களது குரல்கள் மிகவும் ஒத்தவையாக உள்ளதால் எனக்கு வேறுபடுத்த முடியவில்லை.",
+      },
+      {
+        meaning: "Having characteristics in common",
+        tamil: "பொதுவான அம்சங்களை கொண்டிருப்பது",
+        example: "The two cultures have many similar traditions.",
+        tamil_example: "இந்த இரு கலாசாரங்களிலும் பல ஒத்த பாரம்பரியங்கள் உள்ளன.",
+      },
+    ],
+  },
+  unity: {
+    word: "unity",
+    tamil: "ஐக்கியம் / ஒற்றுமை",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The state of being united or joined as a whole",
+        tamil: "ஒருமித்தமாக அல்லது ஒருங்கிணைந்த நிலையில் இருப்பது",
+        example: "The team showed great unity during the match.",
+        tamil_example: "போட்டியின் போது குழு சிறந்த ஒற்றுமையை காட்டியது.",
+      },
+      {
+        meaning: "Agreement and harmony among people",
+        tamil: "மக்களுக்கு இடையில் ஒற்றுமையும் இசைவும் இருப்பது",
+        example: "National unity is important for a country's progress.",
+        tamil_example:
+          "ஒரு நாட்டின் முன்னேற்றத்திற்கு தேசிய ஐக்கியம் முக்கியமானது.",
+      },
+      {
+        meaning: "The quality of forming a complete and integrated whole",
+        tamil: "முழுமையான மற்றும் ஒருங்கிணைந்த அமைப்பாக அமையும் தன்மை",
+        example: "The unity of design made the website look professional.",
+        tamil_example:
+          "வடிவமைப்பின் ஒருமித்தத்தன்மை இணையதளத்தை தொழில்முறை தோற்றத்தில் மாற்றியது.",
+      },
+    ],
+  },
+  resemblance: {
+    word: "resemblance",
+    tamil: "ஒற்றுமை / ஒத்த தோற்றம்",
+    type: "noun",
+    meanings: [
+      {
+        meaning: "The state of being similar to someone or something",
+        tamil: "யாரையோ அல்லது எதையோ ஒத்ததாக இருப்பது",
+        example: "There is a strong resemblance between the twins.",
+        tamil_example: "இரட்டையர்களுக்கிடையில் மிகுந்த ஒற்றுமை உள்ளது.",
+      },
+      {
+        meaning: "A similarity in appearance or nature",
+        tamil: "தோற்றத்தில் அல்லது இயல்பில் காணப்படும் ஒத்த தன்மை",
+        example: "The painting bears a close resemblance to the original.",
+        tamil_example:
+          "இந்த ஓவியம் மூலப்படத்துடன் நெருக்கமான ஒற்றுமை கொண்டுள்ளது.",
+      },
+      {
+        meaning: "An observable likeness that suggests a connection",
+        tamil: "ஒரு தொடர்பை உணர்த்தும் தோற்ற ஒற்றுமை",
+        example: "His actions have some resemblance to his father’s.",
+        tamil_example:
+          "அவனுடைய நடத்தை அவரது தந்தையின் நடத்தைக்கே ஒத்ததாக இருக்கிறது.",
+      },
+    ],
+  },
+  quite: {
+    word: "quite",
+    tamil: "மிகவும் / சில நேரங்களில் 'போதுமான அளவில்'",
+    type: "adverb",
+    meanings: [
+      {
+        meaning: "To a great degree; very",
+        tamil: "மிகவும்; அதிக அளவில்",
+        example: "She is quite talented in music.",
+        tamil_example: "அவள் இசையில் மிகவும் திறமையுள்ளவர்.",
+      },
+      {
+        meaning: "To some extent; fairly (depending on context)",
+        tamil: "சில அளவுக்கு; போதுமான அளவில் (சூழ்நிலையைப் பொறுத்தது)",
+        example: "The movie was quite good.",
+        tamil_example: "திரைப்படம் 꽤 நல்லதாக இருந்தது.",
+      },
+      {
+        meaning: "Completely or entirely (often in British English)",
+        tamil: "முழுமையாக அல்லது முழுமையாகவே",
+        example: "You're quite right about that.",
+        tamil_example: "அதைப் பற்றி நீ சொல்வது முற்றிலும் சரிதான்.",
+      },
+    ],
+  },
+  quiet: {
+    word: "quiet",
+    tamil: "அமைதி / சத்தமில்லாத",
+    type: "adjective",
+    meanings: [
+      {
+        meaning: "Making little or no noise",
+        tamil: "சத்தம் இல்லாமல் இருப்பது",
+        example: "The baby is finally quiet after a long time.",
+        tamil_example: "நீண்ட நேரத்திற்கு பிறகு குழந்தை அமைதியாக உள்ளது.",
+      },
+      {
+        meaning: "Free from disturbance or activity",
+        tamil: "இயக்கமில்லாமல் அல்லது குறுக்கீடின்றி இருப்பது",
+        example: "We spent a quiet evening at home.",
+        tamil_example: "நாம் வீட்டில் ஒரு அமைதியான மாலை நேரத்தை கழித்தோம்.",
+      },
+      {
+        meaning: "Calm or peaceful in nature",
+        tamil: "அமைதியான மற்றும் அமைதி கொண்ட இயல்பு",
+        example: "He has a quiet personality.",
+        tamil_example: "அவனுக்கு அமைதியான தன்மையுள்ள நற்பண்பு உண்டு.",
+      },
+    ],
+  },
+  such: {
+    word: "such",
+    tamil: "இத்தகைய / அத்தகைய",
+    type: "determiner / pronoun",
+    meanings: [
+      {
+        meaning: "Of the type previously mentioned or implied",
+        tamil: "முந்தையதாகக் கூறப்பட்ட அல்லது குறிக்கப்பட்ட வகையைச் சேர்ந்த",
+        example: "I have never seen such a beautiful place.",
+        tamil_example: "இத்தகைய அழகான இடத்தை நான் ஒருபோதும் பார்த்ததில்லை.",
+      },
+      {
+        meaning: "Used to emphasize a quality or degree",
+        tamil: "ஒரு தன்மை அல்லது அளவைக் வலியுறுத்த பயன்படுத்தப்படும்",
+        example: "She is such a kind person.",
+        tamil_example: "அவள் அத்தகைய கருணைமிக்க நபர்.",
+      },
+      {
+        meaning: "For example; of that kind",
+        tamil: "உதாரணமாக; அந்த வகையைச் சேர்ந்த",
+        example: "Games such as chess and carrom are popular here.",
+        tamil_example:
+          "சதுரங்கம், கரம் போன்ற விளையாட்டுகள் இங்கு பிரபலமாக உள்ளன.",
+      },
+    ],
+  },
+  emphasize: {
+    word: "emphasize",
+    tamil: "வலியுறுத்துதல் / முக்கியத்துவம் கொடு",
+    type: "verb",
+    meanings: [
+      {
+        meaning: "To give special importance or attention to something",
+        tamil: "ஏதாவது ஒன்றுக்கு சிறப்பு முக்கியத்துவம் கொடுப்பது",
+        example: "Teachers often emphasize the importance of reading.",
+        tamil_example:
+          "ஆசிரியர்கள் வாசிப்பின் முக்கியத்துவத்தை அடிக்கடி வலியுறுத்துகிறார்கள்.",
+      },
+      {
+        meaning: "To stress a word or phrase while speaking or writing",
+        tamil: "பேசும் போது அல்லது எழுதும் போது ஒரு வார்த்தையை வலியுறுத்துவது",
+        example: "She emphasized the word 'never' in her sentence.",
+        tamil_example:
+          "அவள் தனது வாசகத்தில் 'ஒருபோதும் இல்லை' என்பதை வலியுறுத்தினாள்.",
+      },
+      {
+        meaning: "To highlight or draw attention to something clearly",
+        tamil: "ஏதாவது ஒன்றை தெளிவாக முக்கியமாகக் காட்டுவது",
+        example: "The presentation emphasized key points with bold text.",
+        tamil_example:
+          "வெற்றிட எழுத்துகளால் முக்கியமான அம்சங்களை பிரசண்டேஷனில் வலியுறுத்தப்பட்டது.",
+      },
+    ],
+  },
+  "could be": {
+    word: "could be",
+    tamil: "இருக்கலாம் / இருக்கக்கூடும்",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Possibly true or happening",
+        tamil: "சாத்தியமாக இருக்கக்கூடியது",
+        example:
+          "He could be the winner.  Subject + could be + noun/adjective/preposition phrase",
+        tamil_example: "அவர் வெற்றியாளராக இருக்கலாம்.",
+      },
+      {
+        meaning: "Uncertain situation or condition",
+        tamil: "தெளிவில்லாத நிலைமையை காட்டும்",
+        example: "She could be at the market now.",
+        tamil_example: "அவள் இப்போது சந்தையில் இருக்கக்கூடும்.",
+      },
+      {
+        meaning: "Suggesting or imagining a possible event",
+        tamil: "சாத்தியமான நிகழ்வை யூகித்தல்",
+        example: "This could be your chance.",
+        tamil_example: "இது உங்கள் வாய்ப்பாக இருக்கலாம்.",
+      },
+    ],
+  },
+  "would be": {
+    word: "would be",
+    tamil: "ஆக இருக்கலாம் / இருப்பார் (நிபந்தனைக்கேற்ப)",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Imagined or hypothetical situation",
+        tamil: "யூகத்திலும் நிபந்தனையிலும் வரும் நிலை",
+        example:
+          "It would be nice to visit Paris.  Subject + would be + adjective/noun",
+        tamil_example: "பாரிசுக்கு செல்வது நன்றாக இருக்கலாம்.",
+      },
+      {
+        meaning: "Conditional outcome (if...)",
+        tamil: "நிபந்தனை அடிப்படையில் நிகழும் முடிவு",
+        example: "If he tried harder, he would be successful.",
+        tamil_example:
+          "அவன் இன்னும் முயற்சி செய்திருந்தால், வெற்றிபெற்றிருப்பான்.",
+      },
+      {
+        meaning: "Polite or formal suggestion",
+        tamil: "மென்மையான பரிந்துரை அல்லது வேண்டுகோள்",
+        example: "Would it be okay to join later?",
+        tamil_example: "பின்னர் சேர்வது சரியாக இருக்குமா?",
+      },
+    ],
+  },
+  "should be": {
+    word: "should be",
+    tamil: "இருக்கவேண்டும் / ஆகவேண்டும்",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Giving strong advice or recommendation",
+        tamil: "வலுவான ஆலோசனை அல்லது பரிந்துரை",
+        example:
+          "You should be honest with your friends.  Subject + should be + adjective/noun",
+        tamil_example: "நீங்கள் உங்கள் நண்பர்களிடம் நேர்மையாக இருக்க வேண்டும்.",
+      },
+      {
+        meaning: "Expressing obligation or correctness",
+        tamil: "கடமை அல்லது சரியானதைத் தெரிவிக்கிறது",
+        example: "Students should be in uniform.",
+        tamil_example: "மாணவர்கள் யூனிஃபார்மில் இருக்க வேண்டும்.",
+      },
+      {
+        meaning: "Expressing expected condition or event",
+        tamil: "எதிர்பார்க்கப்படும் நிலையை குறிக்கும்",
+        example: "The results should be available tomorrow.",
+        tamil_example: "விளைவுகள் நாளை கிடைக்கவேண்டும்.",
+      },
+    ],
+  },
+  "must be": {
+    word: "must be",
+    tamil: "நிச்சயமாக இருக்க வேண்டும் / இருக்கிறான் என்பது உறுதி",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Used to express certainty or strong belief",
+        tamil: "ஒரு உறுதி அல்லது வலுவான நம்பிக்கையை வெளிப்படுத்தும்",
+        example:
+          "He must be tired after the long journey.  Subject + must be + adjective/noun",
+        tamil_example:
+          "நீண்ட பயணத்திற்குப் பிறகு அவர் நிச்சயமாக சோர்வாக இருக்க வேண்டும்.",
+      },
+      {
+        meaning: "Used to draw a logical conclusion",
+        tamil: "தர்க்கரீதியாக முடிவுக்கு வரும்போது",
+        example: "That must be her car outside.",
+        tamil_example: "வெளியில் உள்ளது அவளுடைய காராக இருக்க வேண்டும்.",
+      },
+      {
+        meaning: "Strong assumption based on evidence",
+        tamil: "ஆதாரத்தின்பேரில் வலுவான ஊகம்",
+        example: "You must be hungry. You haven’t eaten all day.",
+        tamil_example:
+          "நீ بھாக உறுதியாக பசித்திருப்பாய். நீ இன்று முழுக்க சாப்பிடவில்லையே.",
+      },
+    ],
+  },
+  "may be": {
+    word: "may be",
+    tamil: "இருக்கலாம் / இருக்கக்கூடும் (அளவான சாத்தியம்)",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Used to express a moderate possibility",
+        tamil: "மிதமான சாத்தியத்தைப் வெளிப்படுத்தும்",
+        example:
+          "She may be late due to traffic.  Subject + may be + adjective/noun",
+        tamil_example: "வாகன நெரிசலால் அவள் தாமதமாக இருக்கலாம்.",
+      },
+      {
+        meaning: "To suggest a potential situation",
+        tamil: "ஒரு சாத்தியமான நிலையை யூகிக்க",
+        example: "It may be difficult to reach him now.",
+        tamil_example: "இப்போது அவரை அணுகுவது கடினமாக இருக்கலாம்.",
+      },
+      {
+        meaning: "To imply polite uncertainty",
+        tamil: "மென்மையான தயக்கம் அல்லது நிச்சயமற்ற நிலை",
+        example: "He may be the one you're looking for.",
+        tamil_example: "நீங்கள் தேடுகிறவர் அவராக இருக்கலாம்.",
+      },
+    ],
+  },
+  "might be": {
+    word: "might be",
+    tamil: "இருக்கக்கூடும் / இருக்க வாய்ப்பு உள்ளது",
+    type: "modal verb phrase",
+    meanings: [
+      {
+        meaning: "Used to express a weak or uncertain possibility",
+        tamil: "மிகக் குறைந்த அல்லது நிச்சயமற்ற சாத்தியம்",
+        example:
+          "It might be true, but I’m not sure.  Subject + might be + noun/adjective",
+        tamil_example:
+          "அது உண்மையாக இருக்கக்கூடும், ஆனால் எனக்கு உறுதியாகத் தெரியவில்லை.",
+      },
+      {
+        meaning: "To suggest a less likely situation",
+        tamil: "அளவுக்கூடிய குறைந்த சாத்திய நிகழ்வு",
+        example: "She might be working late tonight.",
+        tamil_example:
+          "இன்று இரவு அவள் தாமதமாக வேலை பார்த்துக்கொண்டிருக்கலாம்.",
+      },
+      {
+        meaning: "Used for polite or indirect assumptions",
+        tamil: "மென்மையான ஊகங்கள் தெரிவிக்க",
+        example: "He might be busy right now.",
+        tamil_example: "இப்போது அவர் பிஸியாக இருக்கக்கூடும்.",
+      },
+    ],
+  },
 };
 
 let currentPage = 1;
