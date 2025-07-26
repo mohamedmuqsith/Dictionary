@@ -1,0 +1,25 @@
+# Ignore node_modules folders everywhere
+**/node_modules/
+
+# Ignore environment variable files
+.env
+**/.env
+
+# Ignore build output folders (if any)
+frontend/build/
+backend/dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional: ignore coverage reports if you use testing
+coverage/

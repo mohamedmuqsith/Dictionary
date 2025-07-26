@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Grammar Guide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-book-open"></i> English Grammar Guide</h1>
+            <!--button click time change color -->
+            <div class="theme-toggle">
+                <button id="themeBtn"><i class="fas fa-moon"></i> Light Mode</button>
+            </div>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#" class="active" data-section="tenses"><i class="fas fa-clock"></i> Tenses</a></li>
+                <li><a href="#" data-section="parts-of-speech"><i class="fas fa-puzzle-piece"></i> Parts of Speech</a></li>
+                <li><a href="#" data-section="be-verbs"><i class="fas fa-verb"></i> Be Verbs</a></li>
+                <li><a href="#" data-section="prepositions"><i class="fas fa-map-marker-alt"></i> Prepositions</a></li>
+                <li><a href="#" data-section="either-neither"><i class="fas fa-random"></i> Either/Neither</a></li>
+                <li><a href="#" data-section="add-content"><i class="fas fa-plus-circle"></i> Add Content</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <section id="tenses" class="content-section active">
+                <h2><i class="fas fa-clock"></i> English Tenses</h2>
+                <div class="search-box">
+                    <input type="text" id="searchTenses" placeholder="Search tenses...">
+                    <button><i class="fas fa-search"></i></button>
+                </div>
+                <div class="tenses-container" id="tensesContainer">
+                    <!-- Tenses will be loaded here dynamically -->
+                </div>
+            </section>
+
+            <section id="parts-of-speech" class="content-section">
+                <h2><i class="fas fa-puzzle-piece"></i> Parts of Speech</h2>
+                <div class="parts-container" id="partsContainer">
+                    <!-- Parts of speech will be loaded here -->
+                </div>
+            </section>
+
+            <section id="be-verbs" class="content-section">
+                <h2><i class="fas fa-verb"></i> Be Verbs</h2>
+                <div class="be-verbs-container" id="beVerbsContainer">
+                    <!-- Be verbs content will be loaded here -->
+                </div>
+            </section>
+
+            <section id="prepositions" class="content-section">
+                <h2><i class="fas fa-map-marker-alt"></i> Prepositions</h2>
+                <div class="prepositions-container" id="prepositionsContainer">
+                    <!-- Prepositions content will be loaded here -->
+                </div>
+            </section>
+
+            <section id="either-neither" class="content-section">
+                <h2><i class="fas fa-random"></i> Either/Neither Constructions</h2>
+                <div class="either-neither-container" id="eitherNeitherContainer">
+                    <!-- Either/Neither content will be loaded here -->
+                </div>
+            </section>
+
+            <section id="add-content" class="content-section">
+                <h2><i class="fas fa-plus-circle"></i> Add New Content</h2>
+                <form id="contentForm">
+                    <div class="form-group">
+                        <label for="contentType">Content Type:</label>
+                        <select id="contentType" required>
+                            <option value="">Select type</option>
+                            <option value="tense">Tense</option>
+                            <option value="part-of-speech">Part of Speech</option>
+                            <option value="be-verb">Be Verb</option>
+                            <option value="preposition">Preposition</option>
+                            <option value="either-neither">Either/Neither</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="contentTitle">Title:</label>
+                        <input type="text" id="contentTitle" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="contentDefinition">Definition:</label>
+                        <textarea id="contentDefinition" rows="3" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="contentExamples">Examples (one per line):</label>
+                        <textarea id="contentExamples" rows="5" required></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="contentNotes">Additional Notes:</label>
+                        <textarea id="contentNotes" rows="3"></textarea>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Add Content</button>
+                </form>
+            </section>
+        </main>
+
+        <footer>
+            <p>© 2025 English Grammar Guide | Created with <i class="fas fa-heart"></i> by <strong>Mukshith</strong> for English learners</p>
+
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
